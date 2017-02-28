@@ -1,0 +1,776 @@
+No.,Code,Name,Industry Code,Industry,No. of Listed Shares(shr.),Capital Stock(KRW),ParValue,Currency
+1,015260,A &amp; P,032602,Manufacture of Electronic Components,"48,684,868","24,342,434,000",500,KRW
+2,078520,ABLE C&amp;C,032004,Manufacture of Other Chemical Products,"15,378,717","7,689,358,500",500,KRW
+3,095570,AJ Networks,126903,Renting of Industrial Machinery and Equipment,"46,822,295","46,822,295,000","1,000",KRW
+4,068400,AJ RENT A CAR,126901,Renting of Transport Equipment,"22,146,300","11,073,150,000",500,KRW
+5,033660,AJU CAPITAL,116409,Other Financial Intermediation,"57,545,890","287,729,450,000","5,000",KRW
+6,006840,AK Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","13,247,561","66,237,805,000","5,000",KRW
+7,161000,AK PETROCHEMICAL,032004,Manufacture of Other Chemical Products,"32,040,000","16,020,000,000",500,
+8,001780,ALUKO,032402,Manufacture of Basic Precious and Non-ferrous Metals,"74,524,102","37,262,051,000",500,KRW
+9,002250,ALVOGEN KOREA,032102,Manufacture of Medicaments,"11,857,922","59,289,610,000","5,000",KRW
+10,007630,AMNIS,032604,Manufacture of Telecommunication and Broadcasting Apparatuses,"16,981,103","8,490,551,500",500,KRW
+11,002790,AMORE Group,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","82,458,180","44,450,975,000",500,KRW
+12,090430,AMOREPACIFIC,032004,Manufacture of Other Chemical Products,"58,458,490","34,508,160,000",500,KRW
+13,008700,ANAM ELEC,032605,Manufacture of Electronic Video and Audio Equipment,"77,124,820","38,562,410,000",500,KRW
+14,101140,ARTIS,074604,Wholesale of Household Goods,"20,027,281","10,013,640,500",500,KRW
+15,183190,ASIA CEMENT,032303,"Manufacture of Cement, Lime and Plaster and Its Products","3,295,809","16,479,045,000","5,000",KRW
+16,002030,ASIA HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","2,191,024","10,955,120,000","5,000",KRW
+17,083570,ASIA PACIFIC NO.10,126901,Renting of Transport Equipment,"2,607,905","13,039,525,000","5,000",KRW
+18,083580,ASIA PACIFIC NO.11,126901,Renting of Transport Equipment,"2,607,905","13,039,525,000","5,000",KRW
+19,083590,ASIA PACIFIC NO.12,126901,Renting of Transport Equipment,"2,607,905","13,039,525,000","5,000",KRW
+20,083600,ASIA PACIFIC NO.13,126901,Renting of Transport Equipment,"2,607,905","13,039,525,000","5,000",KRW
+21,083610,ASIA PACIFIC NO.14,126901,Renting of Transport Equipment,"1,946,194","9,730,970,000","5,000",KRW
+22,083620,ASIA PACIFIC NO.15,126901,Renting of Transport Equipment,"1,946,583","9,732,915,000","5,000",KRW
+23,002310,ASIA PAPR MFG,031702,"Manufacture of Corrugated Cardboard, Paper Boxes and Paper Containers","8,956,502","44,782,510,000","5,000",KRW
+24,017900,AUK,032601,Manufacture of Semiconductor,"57,943,763","28,971,881,500",500,KRW
+25,090370,AVISTA INC.,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","61,443,334","30,721,667,000",500,KRW
+26,020560,Asiana Airlines,085101,Scheduled Air Transport,"205,235,294","1,026,176,470,000","5,000",KRW
+27,014580,BAEKKWANG MIN PDT,032303,"Manufacture of Cement, Lime and Plaster and Its Products","27,583,100","13,791,550,000",500,KRW
+28,035150,BAIKSAN,032202,Manufacture of Plastic Products,"24,200,000","14,000,000,000",500,KRW
+29,027410,BGF Retail,074701,Retail Sale in Non-Specialized Stores,"49,547,625","49,547,625,000","1,000",
+30,005180,BINGGRAE,031005,Manufacture of Dairy Products and edible Ice Cakes,"9,851,241","49,756,205,000","5,000",KRW
+31,138930,BNK Financial Group,116409,Other Financial Intermediation,"325,935,246","1,629,676,230,000","5,000",KRW
+32,000890,BOHAE BREW,031101,Manufacture of  Alcoholic Beverages,"96,012,607","48,006,303,500",500,KRW
+33,002760,BOLAK,032004,Manufacture of Other Chemical Products,"11,980,000","11,980,000,000","1,000",KRW
+34,001270,BOOKOOK SECU,116601,Activities Auxiliary to Financial Service Activities,"10,369,886","66,849,430,000","5,000",KRW
+35,004740,BORNEO INT FURN,033201,Manufacture of Furniture,"39,986,091","19,993,045,500",500,KRW
+36,003850,BORYUNG PHARM,032102,Manufacture of Medicaments,"8,840,000","22,100,000,000","2,500",KRW
+37,003000,BUKWANG PHARM,032102,Manufacture of Medicaments,"37,387,521","18,693,760,500",500,KRW
+38,015350,BUSAN CTY GAS,043502,"Manufacture of Gas, Distribution of Gaseous Fuel Through Mains","11,000,000","55,000,000,000","5,000",KRW
+39,011390,BUSAN IND,032303,"Manufacture of Cement, Lime and Plaster and Its Products","1,056,000","5,280,000,000","5,000",KRW
+40,001460,BYC,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","624,615","4,200,000,000","5,000",KRW
+41,007210,BYUKSAN,032309,Manufacture of Other Non-metallic Mineral Products,"68,560,000","34,280,000,000",500,KRW
+42,155900,Badaro19,126901,Renting of Transport Equipment,"15,200,004","76,000,020,000","5,000",KRW
+43,026940,Bookook Steel,032401,Manufacture of Basic Iron and Steel,"20,000,000","10,000,000,000",500,KRW
+44,013700,CAMUS E&amp;C,064101,Building Construction,"4,515,228","22,576,140,000","5,000",KRW
+45,006380,CAPRO,032001,Manufacture of Basic Chemicals,"40,000,000","20,000,000,000",500,KRW
+46,002420,CENTURY,105901,"Motion Picture, Video, Broadcasting Programmes Production and Distribution","407,592","2,037,960,000","5,000",KRW
+47,033250,CHASYS,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"24,000,000","12,000,000,000",500,KRW
+48,001560,CHEIL GRINDING WHEE,032309,Manufacture of Other Non-metallic Mineral Products,"10,000,000","5,000,000,000",500,KRW
+49,003780,CHIN YANG INDUSTRY,032202,Manufacture of Plastic Products,"13,000,000","6,500,000,000",500,KRW
+50,900050,CHINA OCEAN,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","97,859,369","1,193,180,756",0,HKD
+51,002780,CHINHUNG INT,064102,Heavy Construction,"152,562,189","76,857,107,500",500,KRW
+52,100250,CHINYANG HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","55,895,292","27,947,646,000",500,KRW
+53,010640,CHINYANGPOLYURETHANE,032001,Manufacture of Basic Chemicals,"10,000,000","5,000,000,000",500,KRW
+54,001550,CHOBI,032002,Manufacture of Fertilizers and Nitrogen Compounds,"4,391,637","21,958,185,000","5,000",KRW
+55,002600,CHOHEUNG,031007,Manufacture of Other Food Products,"600,000","3,000,000,000","5,000",KRW
+56,018470,CHOIL ALUMINUM,032402,Manufacture of Basic Precious and Non-ferrous Metals,"69,600,000","34,800,000,000",500,KRW
+57,004700,CHOKWANG LEAT,031501,"Manufacture of Luggage, Footwear and Similar Products","6,649,138","34,245,690,000","5,000",KRW
+58,004910,CHOKWANG PAINT,032004,Manufacture of Other Chemical Products,"12,800,000","6,400,000,000",500,KRW
+59,000950,CHONBANG,031301,Spinning of Textiles and Processing of Threads and Yarns,"1,680,000","8,400,000,000","5,000",KRW
+60,185750,CHONGKUNDANG,032102,Manufacture of Medicaments,"9,409,050","23,522,625,000","2,500",KRW
+61,001630,CHONGKUNDANG HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","5,009,861","12,524,652,500","2,500",KRW
+62,000480,CHOSUN REFRCTR,032302,Manufacture of Ceramic Ware,"4,000,000","20,000,000,000","5,000",KRW
+63,120030,CHOSUN WELDING,032509,Manufacture of Other Metal Products; Metal Working Service Activities,"1,257,651","628,825,500",500,KRW
+64,012600,CHUNGHO COMNET,032901,Manufacture of General Purpose Machinery,"8,376,352","41,881,760,000","5,000",KRW
+65,000650,CHUNIL EXP,084902,Transit and Ground Passenger Transportation,"1,429,220","7,146,100,000","5,000",KRW
+66,004920,CITECH,074605,Wholesale of Machinery Equipment and Supplies,"44,787,538","22,393,769,000",500,KRW
+67,001040,CJ,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","29,176,998","157,914,810,000","5,000",KRW
+68,079160,CJ CGV,105901,"Motion Picture, Video, Broadcasting Programmes Production and Distribution","21,161,313","10,580,656,500",500,KRW
+69,097950,CJ CHEILJEDANG,031007,Manufacture of Other Food Products,"13,161,898","72,446,655,000","5,000",KRW
+70,037560,CJ HelloVision,106002,Television Broadcasting,"77,446,865","193,617,162,500","2,500",KRW
+71,011150,CJ SEAFOOD,031007,Manufacture of Other Food Products,"35,930,773","18,065,386,500",500,KRW
+72,000120,CJ korea express,084903,Road Freight Transport,"22,812,344","114,061,720,000","5,000",KRW
+73,063160,CKD Bio,032102,Manufacture of Medicaments,"5,229,489","13,073,722,500","2,500",KRW
+74,031820,COMTEC,106201,"Computer programming, System Integration and Management Services","31,851,466","15,925,733,000",500,KRW
+75,192820,COSMAX,032004,Manufacture of Other Chemical Products,"10,049,509","5,024,754,500",500,KRW
+76,044820,COSMAX bti,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","9,603,921","4,801,960,500",500,KRW
+77,005070,COSMO AM&amp;T,032004,Manufacture of Other Chemical Products,"15,077,968","75,389,840,000","5,000",KRW
+78,005420,COSMO CHEM,032004,Manufacture of Other Chemical Products,"13,328,444","66,642,220,000","5,000",KRW
+79,021240,COWAY,199609,Other Personnal Service Activities n.e.c.,"76,380,513","40,662,398,000",500,KRW
+80,005740,CROWN CONF,031007,Manufacture of Other Food Products,"14,735,240","7,822,695,000",500,KRW
+81,000590,CS HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","1,154,482","5,772,410,000","5,000",KRW
+82,112610,CSWIND,032501,"Manufacture of Structural Metal Products, Tanks, Reservoirs and Steam Generators","17,285,715","8,642,857,500",500,KRW
+83,192400,CUCKOO,032805,Manufacture of Domestic Appliances,"9,803,360","4,901,680,000",500,KRW
+84,051630,CYCC,032202,Manufacture of Plastic Products,"12,000,000","6,000,000,000",500,KRW
+85,009310,Charm Engineering,032902,Manufacture of Special-Purpose Machinery,"49,189,958","25,019,977,500",500,KRW
+86,030000,Cheil Worldwide,137103,Advertising,"115,041,225","23,008,245,000",200,KRW
+87,012800,DAECHANG,032402,Manufacture of Basic Precious and Non-ferrous Metals,"91,140,499","45,570,249,500",500,KRW
+88,015230,DAECHANG FORGING,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"2,000,000","10,000,000,000","5,000",KRW
+89,000490,DAEDONG IND,032902,Manufacture of Special-Purpose Machinery,"23,728,210","23,728,210,000","1,000",KRW
+90,008060,DAEDUCK ELEC,032602,Manufacture of Electronic Components,"48,796,300","24,398,150,000",500,KRW
+91,004130,DAEDUCK GDS,032602,Manufacture of Electronic Components,"20,575,613","11,367,806,500",500,KRW
+92,001130,DAEHAN FLR MILL,031006,"Manufacture of Grain Mill Products, Starches and Starch Products","1,690,000","8,450,000,000","5,000",KRW
+93,084010,DAEHAN STEEL,032401,Manufacture of Basic Iron and Steel,"24,646,734","24,646,734,000","1,000",KRW
+94,003830,DAEHAN SYNTH FIBR,032005,Manufacture of Man-Made Fibers,"1,328,000","6,640,000,000","5,000",KRW
+95,069460,DAEHO AL,032402,Manufacture of Basic Precious and Non-ferrous Metals,"27,134,839","13,567,419,500",500,KRW
+96,016090,DAEHYUN,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","45,282,310","26,906,155,000",500,KRW
+97,019680,DAEKYO,168501,Primary Education,"84,702,850","52,064,920,000",500,KRW
+98,015590,DAEKYUNG MACH &amp; ENG,032901,Manufacture of General Purpose Machinery,"70,739,890","35,369,945,000",500,KRW
+99,005750,DAELIM B&amp;Co,032302,Manufacture of Ceramic Ware,"16,672,240","16,672,240,000","1,000",KRW
+100,004440,DAELIM C&amp;S,032303,"Manufacture of Cement, Lime and Plaster and Its Products","12,731,947","12,731,947,000","1,000",KRW
+101,000210,DAELIM IND,064102,Heavy Construction,"34,800,000","218,500,000,000","5,000",KRW
+102,006570,DAELIM TRDG,032509,Manufacture of Other Metal Products; Metal Working Service Activities,"15,225,000","16,425,000,000","1,000",KRW
+103,001680,DAESANG,031007,Manufacture of Other Food Products,"34,411,575","36,018,248,000","1,000",KRW
+104,084690,DAESANG HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","36,212,538","37,126,020,000","1,000",KRW
+105,016710,DAESUNG HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","16,089,459","16,089,459,000","1,000",KRW
+106,117580,DAESUNGENERGY,043502,"Manufacture of Gas, Distribution of Gaseous Fuel Through Mains","27,500,000","27,500,000,000","1,000",KRW
+107,005620,DAESUNGGROUP,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","1,799,077","8,995,385,000","5,000",KRW
+108,128820,DAESUNGIND,074707,Retail Sale of Fuel,"24,087,955","120,439,775,000","5,000",KRW
+109,024890,DAEWON CHEM,032202,Manufacture of Plastic Products,"41,249,152","20,624,576,000",500,KRW
+110,003220,DAEWON PHARM,032102,Manufacture of Medicaments,"17,681,504","8,840,752,000",500,KRW
+111,000430,DAEWONKANGUP,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"62,000,000","31,000,000,000",500,KRW
+112,003090,DAEWOONG,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","11,628,396","29,070,990,000","2,500",KRW
+113,069620,DAEWOONG PHARMA,032102,Manufacture of Medicaments,"11,586,575","28,966,437,500","2,500",KRW
+114,014160,DAEYOUNG PKG,031702,"Manufacture of Corrugated Cardboard, Paper Boxes and Paper Containers","106,584,898","53,292,449,000",500,KRW
+115,008110,DAIDONG ELECTRONICS,032604,Manufacture of Telecommunication and Broadcasting Apparatuses,"10,490,447","5,245,223,500",500,KRW
+116,003540,DAISHIN SECU,116601,Activities Auxiliary to Financial Service Activities,"50,773,400","434,867,000,000","5,000",KRW
+117,009190,DAIYANG MTL,032401,Manufacture of Basic Iron and Steel,"12,317,933","6,158,966,500",500,KRW
+118,023590,DAOU TECH,106301,"Data Processing, Hosting, Portals and Other Internet Information Media Service Activities","44,866,617","22,433,308,500",500,KRW
+119,006340,DAWON CBL,032803,"Manufacture of Insulated Wires and Cables, Including Insulated Code Sets","68,107,171","35,364,185,500",500,KRW
+120,002880,DAYOU A-TECH,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"91,784,300","45,892,150,000",500,KRW
+121,000300,DAYOU PLUS,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"88,120,526","44,060,263,000",500,KRW
+122,024090,DCM,032401,Manufacture of Basic Iron and Steel,"11,700,000","6,000,000,000",500,KRW
+123,139130,DGB Financial Group,116409,Other Financial Intermediation,"169,145,833","845,729,165,000","5,000",KRW
+124,003160,DI,032702,"Manufacture of Instruments and Appliances for Measuring, Checking, Testing, Navigating, controlling and Other Purposes, Except Optical Instruments","31,496,785","17,248,392,500",500,KRW
+125,092200,DIC,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"21,700,000","10,850,000,000",500,KRW
+126,004890,DIC,032401,Manufacture of Basic Iron and Steel,"2,425,215","12,126,075,000","5,000",KRW
+127,002150,DOHWA ENGINEERING,137201,"Architectural, Engineering and Related Technical Services","33,720,000","16,860,000,000",500,KRW
+128,002690,DONG IL STEEL MFG,032401,Manufacture of Basic Iron and Steel,"15,000,000","7,500,000,000",500,KRW
+129,170900,DONG-A ST,032102,Manufacture of Medicaments,"8,443,868","42,219,340,000","5,000",KRW
+130,007340,DONGAH TIRE,032201,Manufacture of Rubber Products,"23,727,020","11,863,510,000",500,KRW
+131,007590,DONGBANG AGRO,032004,Manufacture of Other Chemical Products,"13,617,577","6,808,788,500",500,KRW
+132,004140,DONGBANG TRNSPT &amp; L,084903,Road Freight Transport,"32,523,970","32,523,970,000","1,000",KRW
+133,012030,DONGBU,106201,"Computer programming, System Integration and Management Services","182,126,320","91,063,160,000",500,KRW
+134,005830,DONGBU INS,116501,Insurance,"70,800,000","35,400,000,000",500,KRW
+135,016610,DONGBU SECU,116601,Activities Auxiliary to Financial Service Activities,"42,446,389","212,231,945,000","5,000",KRW
+136,016380,DONGBU STL,032401,Manufacture of Basic Iron and Steel,"25,000,122","125,802,280,000","5,000",KRW
+137,083360,DONGBUKA 11th SHIP,126901,Renting of Transport Equipment,"1,585,660","7,928,300,000","5,000",KRW
+138,083370,DONGBUKA 12th SHIP,126901,Renting of Transport Equipment,"1,585,660","7,928,300,000","5,000",KRW
+139,083380,DONGBUKA 13th SHIP,126901,Renting of Transport Equipment,"1,585,660","7,928,300,000","5,000",KRW
+140,083390,DONGBUKA 14th SHIP,126901,Renting of Transport Equipment,"1,585,660","7,928,300,000","5,000",KRW
+141,083350,DONGBUKANO.10SHIP,126901,Renting of Transport Equipment,"1,585,660","7,928,300,000","5,000",KRW
+142,001530,DONGIL,031301,Spinning of Textiles and Processing of Threads and Yarns,"2,294,311","11,471,555,000","5,000",KRW
+143,001620,DONGKOOK IND,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"29,042,766","14,521,383,000",500,KRW
+144,001230,DONGKUK STL MILL,032401,Manufacture of Basic Iron and Steel,"95,432,737","589,228,035,000","5,000",KRW
+145,023450,DONGNAMCHEMICAL,032004,Manufacture of Other Chemical Products,"1,510,074","7,865,040,000","5,000",KRW
+146,026960,DONGSUH,074603,"Wholesale of Food, Beverages and Tobaccos","99,700,000","49,850,000,000",500,KRW
+147,005190,DONGSUNG CHEM,032001,Manufacture of Basic Chemicals,"5,304,983","5,500,663,000","1,000",KRW
+148,102260,DONGSUNG CORPORATION,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","45,444,970","45,444,970,000","1,000",KRW
+149,002210,DONGSUNG PHARM,032102,Manufacture of Medicaments,"22,404,756","22,404,756,000","1,000",KRW
+150,000020,DONGWHA PHARM,032102,Manufacture of Medicaments,"27,931,470","27,931,470,000","1,000",KRW
+151,003580,DONGWON,020702,Mining of Other Non-Metal Ores,"1,278,717","6,393,585,000","5,000",KRW
+152,049770,DONGWON F &amp; B,031007,Manufacture of Other Food Products,"3,859,124","19,295,620,000","5,000",KRW
+153,030720,DONGWON FISH,010301,Fishing and Gathering of Marine Materials,"4,059,609","20,298,045,000","5,000",KRW
+154,006040,DONGWON IND,010301,Fishing and Gathering of Marine Materials,"3,363,200","16,816,000,000","5,000",KRW
+155,018500,DONGWON METAL,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"35,122,525","17,561,262,500",500,KRW
+156,084670,DONGYANG EXPRESS,084902,Transit and Ground Passenger Transportation,"2,652,000","13,260,000,000","5,000",KRW
+157,008970,DONGYANG STL PIPE,032401,Manufacture of Basic Iron and Steel,"85,584,047","42,792,023,500",500,KRW
+158,000150,DOOSAN,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","20,206,888","134,838,235,000","5,000",KRW
+159,026890,DPC,032801,"Manufacture of Electric Motors, Generators and Transforming, Distributing and Controlling Apparatus of Electricity","41,678,175","20,839,087,500",500,KRW
+160,004840,DRB Holding,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","18,510,000","9,255,000,000",500,KRW
+161,163560,DRB Industrial,032201,Manufacture of Rubber Products,"12,270,000","6,135,000,000",500,KRW
+162,034020,DSH,032901,Manufacture of General Purpose Machinery,"106,457,586","532,287,930,000","5,000",KRW
+163,042670,DSINFRA,032902,Manufacture of Special-Purpose Machinery,"207,455,314","1,037,276,570,000","5,000",KRW
+164,155660,DSR,031309,"Manufacture of Other Made-Up Textile Articles, Except Apparel","16,000,000","8,000,000,000",500,KRW
+165,069730,DSR WIRE,032401,Manufacture of Basic Iron and Steel,"14,400,000","7,200,000,000",500,KRW
+166,016740,DUAL,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"17,755,500","44,388,750,000","2,500",KRW
+167,024900,DUCKYANG IND,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"32,564,980","16,282,490,000",500,KRW
+168,004830,DUKSUNG,032202,Manufacture of Plastic Products,"15,680,000","8,536,000,000",500,KRW
+169,047040,DWEC,064101,Building Construction,"415,622,638","2,078,113,190,000","5,000",KRW
+170,009320,DWECC,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"47,646,375","23,823,187,500",500,KRW
+171,014820,DWS,032202,Manufacture of Plastic Products,"24,079,554","121,724,560,000","5,000",KRW
+172,013570,DY,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","26,319,633","13,159,816,500",500,KRW
+173,210540,DY POWER,032902,Manufacture of Special-Purpose Machinery,"11,041,708","5,520,854,000",500,KRW
+174,006370,Daegu Dpt Str,074701,Retail Sale in Non-Specialized Stores,"10,821,611","54,108,055,000","5,000",KRW
+175,042660,Daewoo Shipbuilding,033101,Building of Ships and Boats,"65,576,960","332,884,800,000","5,000",KRW
+176,020120,Daouincube,106201,"Computer programming, System Integration and Management Services","15,832,549","7,916,274,500",500,KRW
+177,058730,Dong A S-tech,032501,"Manufacture of Structural Metal Products, Tanks, Reservoirs and Steam Generators","15,370,000","7,985,000,000",500,KRW
+178,028100,Dong Ah E&amp;C,064201,Site Preparation and Special Trade Construction for Civil Engineering and Buildings,"11,500,000","5,750,000,000",500,KRW
+179,000640,Donga Socio Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","6,137,913","30,689,565,000","5,000",KRW
+180,005960,Dongbu Corporation,064102,Heavy Construction,"20,818,499","105,221,155,000","5,000",KRW
+181,000990,Dongbu HiTek,032601,Manufacture of Semiconductor,"44,367,832","222,400,740,000","5,000",KRW
+182,241560,Doosan Bobcat,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","100,249,166","50,124,583,000",500,KRW
+183,082740,Doosan Engine,032901,Manufacture of General Purpose Machinery,"69,500,000","69,500,000,000","1,000",KRW
+184,011160,Doosanenc,064101,Building Construction,"61,114,965","40,557,482,500",500,KRW
+185,012510,DuzonBizon,106201,"Computer programming, System Integration and Management Services","29,672,700","14,836,350,000",500,KRW
+186,084680,E-WORLD,189102,Amusement and theme Park Operation,"90,509,897","90,509,897,000","1,000",KRW
+187,017940,E1,074607,Other Specialized Wholesale,"6,860,000","34,300,000,000","5,000",KRW
+188,008250,EAGON IND,031602,Manufacture of Wood Products,"9,373,525","46,867,625,000","5,000",KRW
+189,093230,EID,074607,Other Specialized Wholesale,"72,690,174","14,538,034,800",200,KRW
+190,074610,EN3,032901,Manufacture of General Purpose Machinery,"18,039,487","9,019,743,500",500,KRW
+191,011090,ENEX,033201,Manufacture of Furniture,"59,991,641","29,995,820,500",500,KRW
+192,001200,EUGENEIS,116601,Activities Auxiliary to Financial Service Activities,"96,866,418","537,592,090,000","5,000",KRW
+193,000700,EUSU HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","26,041,812","65,104,530,000","2,500",KRW
+194,007700,F&amp;F,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","15,400,000","7,700,000,000",500,KRW
+195,036580,FARMSCO,031006,"Manufacture of Grain Mill Products, Starches and Starch Products","36,727,943","18,363,971,500",500,KRW
+196,033180,FEELUX,032602,Manufacture of Electronic Components,"25,819,408","13,059,704,000",500,KRW
+197,081660,FILA KOREA,074604,Wholesale of Household Goods,"11,458,014","57,849,420,000","5,000",KRW
+198,133820,FINEBESTEEL,032401,Manufacture of Basic Iron and Steel,"32,100,000","16,050,000,000",500,KRW
+199,010820,"FIRSTEC CO.,LTD.",032502,Manufacture of Weapons and Ammunition,"46,764,840","23,382,420,000",500,KRW
+200,093370,FOOSUNG,032001,Manufacture of Basic Chemicals,"92,399,753","46,199,876,500",500,KRW
+201,016800,FURSYS,033201,Manufacture of Furniture,"11,500,000","14,300,000,000","1,000",KRW
+202,011420,GALAXIA SM,189101,Sports Services,"27,549,644","13,774,822,000",500,KRW
+203,000500,GAON CABLE CO,032803,"Manufacture of Insulated Wires and Cables, Including Insulated Code Sets","4,160,347","20,801,735,000","5,000",KRW
+204,006280,GC Corp,032102,Manufacture of Medicaments,"11,686,538","58,432,690,000","5,000",KRW
+205,005250,GCH Corp,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","47,028,210","26,579,335,000",500,KRW
+206,011000,GENEONE,074607,Other Specialized Wholesale,"16,150,563","16,150,563,000","1,000",KRW
+207,114090,GKL,189102,Amusement and theme Park Operation,"61,855,670","30,927,835,000",500,KRW
+208,013870,GMB Korea,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"19,072,280","9,536,140,000",500,KRW
+209,006360,GS E&amp;C,064101,Building Construction,"71,000,000","355,000,000,000","5,000",KRW
+210,001250,GS Global,074608,Wholesale of Non-Specialized Goods,"82,533,764","206,334,410,000","2,500",KRW
+211,078930,GS Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","92,915,378","473,501,020,000","5,000",KRW
+212,007070,GS Retail,074701,Retail Sale in Non-Specialized Stores,"77,000,000","77,000,000,000","1,000",KRW
+213,001290,GoldenBridgeInv&amp;Sec,116601,Activities Auxiliary to Financial Service Activities,"63,737,067","65,040,543,000","1,000",KRW
+214,037710,Gwangju Shinsegae,074701,Retail Sale in Non-Specialized Stores,"1,600,000","8,000,000,000","5,000",KRW
+215,035000,G¥±R,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","16,567,409","17,571,493,000","1,000",KRW
+216,003530,H.I.S.C,116601,Activities Auxiliary to Financial Service Activities,"172,442,511","886,212,555,000","5,000",KRW
+217,003010,HAEIN CORP,074605,Wholesale of Machinery Equipment and Supplies,"12,712,747","6,356,373,500",500,KRW
+218,195870,HAESUNG DS,032602,Manufacture of Electronic Components,"17,000,000","85,000,000,000","5,000",KRW
+219,060980,HALLA HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","10,802,691","55,086,180,000","5,000",KRW
+220,014130,HAN EXPRESS,084903,Road Freight Transport,"1,200,000","6,000,000,000","5,000",KRW
+221,086790,HANA FINANCIAL GR,116409,Other Financial Intermediation,"296,003,062","1,480,015,310,000","5,000",KRW
+222,099340,HANA NICKEL 1,116402,Investment Companies,"22,756,200","113,781,000,000",0,KRW
+223,099350,HANA NICKEL 2,116402,Investment Companies,"3,284,000","16,420,000,000",0,KRW
+224,009420,HANALL BIOPHARMA,032102,Manufacture of Medicaments,"52,240,638","26,120,319,000",500,KRW
+225,039130,HANATOUR SERVICE,147502,Activities of Travel Agencies and Tour Operators and Tourist Assistance Activities,"11,616,185","5,808,092,500",500,KRW
+226,005110,HANCHANG,074605,Wholesale of Machinery Equipment and Supplies,"34,458,589","17,229,294,500",500,KRW
+227,009460,HANCHANG PAPER,031701,"Manufacture of Pulp, Paper and Paperboard","59,667,486","29,833,743,000",500,KRW
+228,002390,HANDOK,032102,Manufacture of Medicaments,"12,594,080","6,297,040,000",500,KRW
+229,143210,HANDS CORPORATION,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"21,646,800","10,823,400,000",500,KRW
+230,020000,HANDSOME,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","24,630,000","12,315,000,000",500,KRW
+231,002220,HANIL IRON &amp; STL,032401,Manufacture of Basic Iron and Steel,"2,040,000","10,200,000,000","5,000",KRW
+232,003300,"HANILCEMENT CO.,LTD.",032303,"Manufacture of Cement, Lime and Plaster and Its Products","7,545,313","37,726,565,000","5,000",KRW
+233,097230,HANJIN HVY IND,064102,Heavy Construction,"106,052,508","530,262,540,000","5,000",KRW
+234,002320,HANJIN TRNSPT,084903,Road Freight Transport,"11,974,656","59,873,280,000","5,000",KRW
+235,180640,HANJINKAL,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","59,170,458","149,268,060,000","2,500",KRW
+236,123690,HANKOOK COSMETICS,074604,Wholesale of Household Goods,"16,068,000","8,034,000,000",500,KRW
+237,002960,HANKOOK SHELL OIL,031902,Manufacture of Refined Petroleum Products,"1,300,000","7,000,000,000","5,000",KRW
+238,025890,HANKOOK STEEL,032902,Manufacture of Special-Purpose Machinery,"11,309,259","5,654,629,500",500,KRW
+239,161390,HANKOOK TIRE,032201,Manufacture of Rubber Products,"123,875,069","61,937,534,500",500,KRW
+240,000240,HANKOOK TIRE WORLDWIDE,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","93,020,173","46,510,086,500",500,KRW
+241,017960,HANKUK CARBON,032501,"Manufacture of Structural Metal Products, Tanks, Reservoirs and Steam Generators","43,960,757","21,980,378,500",500,KRW
+242,002000,HANKUK GLAS,032301,Manufacture of Glass and Glass Products,"10,079,660","69,882,185,000","5,000",KRW
+243,002300,HANKUK PAPR MFG,031701,"Manufacture of Pulp, Paper and Paperboard","5,004,949","25,024,745,000","5,000",KRW
+244,042700,HANMI Semi,032902,Manufacture of Special-Purpose Machinery,"25,432,841","12,716,420,500",500,KRW
+245,011500,HANNONG,032004,Manufacture of Other Chemical Products,"15,637,042","7,818,521,000",500,KRW
+246,016450,HANSAE YES24 HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","40,000,000","20,000,000,000",500,KRW
+247,004960,HANSHIN CONST,064101,Building Construction,"10,166,455","50,832,275,000","5,000",KRW
+248,011700,HANSHIN MACH,032901,Manufacture of General Purpose Machinery,"32,446,151","16,223,075,500",500,KRW
+249,004150,HANSOL HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","46,359,871","231,799,355,000","5,000",KRW
+250,010420,HANSOL PNS,074607,Other Specialized Wholesale,"20,493,012","10,246,506,000",500,KRW
+251,213500,HANSOLPAPER,031701,"Manufacture of Pulp, Paper and Paperboard","20,136,509","100,682,545,000","5,000",KRW
+252,009240,HANSSEM,074604,Wholesale of Household Goods,"23,533,928","23,533,928,000","1,000",KRW
+253,003680,HANSUNG ENT,031002,Processing and Preserving of Fishes and Edible Seaweeds,"5,477,951","27,389,755,000","5,000",KRW
+254,000880,HANWHA,032004,Manufacture of Other Chemical Products,"74,958,735","489,550,145,000","5,000",KRW
+255,088350,HANWHA LIFE,116501,Insurance,"868,530,000","4,342,650,000,000","5,000",KRW
+256,012450,HANWHA TECHWIN,033103,"Manufacture of Aircraft, Spacecraft and its Parts","53,130,000","265,650,000,000","5,000",KRW
+257,001750,HANYANG SECU,116601,Activities Auxiliary to Financial Service Activities,"12,728,534","66,267,670,000","5,000",KRW
+258,089470,HEP,032004,Manufacture of Other Chemical Products,"31,900,000","17,200,000,000",500,KRW
+259,003280,HEUNG-A SHIPPING,085001,Sea and Coastal Water Transport,"127,713,430","63,856,715,000",500,KRW
+260,027390,HGTC,074701,Retail Sale in Non-Specialized Stores,"6,000,131","30,000,655,000","5,000",KRW
+261,009540,HHI,033101,Building of Ships and Boats,"76,000,000","380,000,000,000","5,000",KRW
+262,003480,HHIC HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","29,529,812","155,149,060,000","5,000",KRW
+263,159650,HI GOLD KMARIN NO.8,126901,Renting of Transport Equipment,"14,905,929","74,529,645,000","5,000",KRW
+264,172580,HI GOLD NO.12,126901,Renting of Transport Equipment,"13,044,500","65,222,500,000","5,000",KRW
+265,071090,HISTEEL,032401,Manufacture of Basic Iron and Steel,"1,999,944","9,999,720,000","5,000",KRW
+266,000080,HITE JINRO,031101,Manufacture of  Alcoholic Beverages,"70,133,611","368,818,745,000","5,000",KRW
+267,000140,HITEJINRO HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","23,206,765","118,387,875,000","5,000",KRW
+268,019490,HITRON,032605,Manufacture of Electronic Video and Audio Equipment,"5,530,735","13,826,837,500","2,500",KRW
+269,117930,HJS,085001,Sea and Coastal Water Transport,"245,269,947","1,226,349,735,000","5,000",KRW
+270,003350,HKCManufacture,032004,Manufacture of Other Chemical Products,"4,532,000","2,266,000,000",500,KRW
+271,001500,HMCIB,116601,Activities Auxiliary to Financial Service Activities,"29,337,111","146,685,555,000","5,000",KRW
+272,000850,HMT,032902,Manufacture of Special-Purpose Machinery,"2,200,000","11,000,000,000","5,000",KRW
+273,006060,HS IND,032202,Manufacture of Plastic Products,"55,320,000","27,660,000,000",500,KRW
+274,013520,HS R &amp; A,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"6,456,121","32,280,605,000","5,000",KRW
+275,008770,HTL SHILLA,074708,Retail Sale in Other Specialized Stores,"39,248,121","200,000,000,000","5,000",KRW
+276,005870,HUNEED,032604,Manufacture of Telecommunication and Broadcasting Apparatuses,"14,028,015","70,140,075,000","5,000",KRW
+277,005010,HUSTEEL,032401,Manufacture of Basic Iron and Steel,"6,918,617","34,593,085,000","5,000",KRW
+278,079980,HUVIS,032005,Manufacture of Man-Made Fibers,"34,500,000","172,500,000,000","5,000",KRW
+279,010660,HWACHEON,032902,Manufacture of Special-Purpose Machinery,"2,200,000","11,000,000,000","5,000",KRW
+280,241590,HWASEUNG ENTERPRISE,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","26,929,479","13,464,739,500",500,KRW
+281,010690,HWASHIN,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"34,920,410","17,460,205,000",500,KRW
+282,002460,HWASUNG IND,064101,Building Construction,"12,450,800","62,254,000,000","5,000",KRW
+283,004800,HYOSUNG,032005,Manufacture of Man-Made Fibers,"35,117,455","175,587,275,000","5,000",KRW
+284,094280,HYOSUNG ITX,147509,Other Business Support Services,"11,558,200","5,779,100,000",500,KRW
+285,004560,HYUNDAI BNG STEEL,032401,Manufacture of Basic Iron and Steel,"15,078,811","75,943,315,000","5,000",KRW
+286,227840,HYUNDAI C&amp;F,074603,"Wholesale of Food, Beverages and Tobaccos","9,100,836","45,504,180,000","5,000",KRW
+287,006390,HYUNDAI CEMENT,032303,"Manufacture of Cement, Lime and Plaster and Its Products","16,758,544","83,792,720,000","5,000",KRW
+288,011760,HYUNDAI CORP,074608,Wholesale of Non-Specialized Goods,"13,228,966","66,144,830,000","5,000",KRW
+289,069960,HYUNDAI DEPARTMENT,074701,Retail Sale in Non-Specialized Stores,"23,402,441","117,012,205,000","5,000",KRW
+290,017800,HYUNDAI ELEV,032901,Manufacture of General Purpose Machinery,"24,632,513","123,162,565,000","5,000",KRW
+291,000720,HYUNDAI ENG &amp; CONST,064102,Heavy Construction,"111,355,765","557,273,105,000","5,000",KRW
+292,086280,HYUNDAI GLOVIS,085209,Other Services Allied to Transport Agency,"37,500,000","18,750,000,000",500,KRW
+293,005440,HYUNDAI GREEN FOOD,074701,Retail Sale in Non-Specialized Stores,"97,704,482","48,852,241,000",500,KRW
+294,079430,HYUNDAI LIVART,033201,Manufacture of Furniture,"17,261,650","17,261,650,000","1,000",KRW
+295,011200,HYUNDAI MERC MAR,085001,Sea and Coastal Water Transport,"177,861,977","889,309,885,000","5,000",KRW
+296,010620,HYUNDAI MIPO DOCK,033101,Building of Ships and Boats,"20,000,000","100,000,000,000","5,000",KRW
+297,012330,HYUNDAI MOBIS,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"97,343,863","490,969,315,000","5,000",KRW
+298,005380,HYUNDAI MTR,033001,Manufacture of Motor Vehicles and Engines for Motor Vehicles,"220,276,479","1,488,993,125,000","5,000",KRW
+299,004310,HYUNDAI PHARM,032102,Manufacture of Medicaments,"28,000,000","14,000,000,000",500,KRW
+300,064350,HYUNDAI ROTEM,033102,Manufacture of Railway and Tramway Locomotives and Rolling Stock,"85,000,000","425,000,000,000","5,000",KRW
+301,004020,HYUNDAI STEEL,032401,Manufacture of Basic Iron and Steel,"133,445,785","667,228,925,000","5,000",KRW
+302,011210,HYUNDAI WIA,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"27,195,083","135,975,415,000","5,000",KRW
+303,057050,HYUNDAIHOMESHOP,074709,Retail Sale not in Stores,"12,000,000","60,000,000,000","5,000",KRW
+304,001450,HYUNDAIMAR&amp;FIREINS,116501,Insurance,"89,400,000","44,700,000,000",500,KRW
+305,093240,HYUNGJI ELITE,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","17,831,138","8,915,569,000",500,KRW
+306,101530,Haitai Confectionery,031007,Manufacture of Other Food Products,"29,116,822","14,558,411,000",500,KRW
+307,014790,Halla,064102,Heavy Construction,"36,494,942","182,474,710,000","5,000",KRW
+308,014680,Hanchem,032001,Manufacture of Basic Chemicals,"11,295,195","56,475,975,000","5,000",KRW
+309,008930,Hanmi Science,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","58,290,309","29,145,154,500",500,KRW
+310,053690,HanmiGlobal,137201,"Architectural, Engineering and Related Technical Services","10,855,588","5,427,794,000",500,KRW
+311,128940,HanmiPharm,032102,Manufacture of Medicaments,"10,435,111","26,087,777,500","2,500",KRW
+312,018880,Hanon Systems,032901,Manufacture of General Purpose Machinery,"533,800,000","53,380,000,000",100,KRW
+313,105630,Hansae,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","40,000,000","20,000,000,000",500,KRW
+314,007190,Hansol Artone Paper,031701,"Manufacture of Pulp, Paper and Paperboard","38,478,081","38,945,796,000","1,000",KRW
+315,009180,Hansol Logistics,085209,Other Services Allied to Transport Agency,"16,477,425","8,840,941,000",500,KRW
+316,004710,Hansol Technics,032602,Manufacture of Electronic Components,"22,109,878","110,549,390,000","5,000",KRW
+317,000370,Hanwha General Ins,116501,Insurance,"90,738,915","453,694,575,000","5,000",KRW
+318,009830,HanwhaChem,032001,Manufacture of Basic Chemicals,"164,809,359","829,665,480,000","5,000",KRW
+319,000540,Heungkuk F&amp;M Ins,116501,Insurance,"64,242,645","325,821,225,000","5,000",KRW
+320,153360,Hi Gold No.3,126901,Renting of Transport Equipment,"16,149,790","80,748,950,000","5,000",KRW
+321,111110,Hojeon,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","8,000,000","4,657,880,000",500,KRW
+322,025750,HomeDeco,031601,Sawmilling and Planing of Wood,"80,565,149","83,765,149,000","1,000",KRW
+323,015540,Hot-Tech,147509,Other Business Support Services,"3,494,097","1,747,048,500",500,KRW
+324,069260,Huchems,032004,Manufacture of Other Chemical Products,"40,878,588","40,878,588,000","1,000",KRW
+325,032560,HwangKum S&amp;T,032402,Manufacture of Basic Precious and Non-ferrous Metals,"14,000,000","7,000,000,000",500,KRW
+326,012630,Hyundai Dvp Co,064101,Building Construction,"75,384,180","376,920,900,000","5,000",KRW
+327,126560,Hyundai HCN,106002,Television Broadcasting,"112,876,596","56,438,298,000",500,KRW
+328,039570,I Controls,064203,Electrical and Communication Works,"8,230,000","4,115,000,000",500,KRW
+329,024110,IBK,116401,Banking and Savings Institutions,"559,978,815","2,799,894,075,000","5,000",KRW
+330,003560,IHQ,105901,"Motion Picture, Video, Broadcasting Programmes Production and Distribution","143,556,056","71,778,028,000",500,KRW
+331,249420,IL DONG PHARM,032102,Manufacture of Medicaments,"17,845,253","17,845,253,000","1,000",KRW
+332,000230,ILDONG HOLDINGS,032102,Manufacture of Medicaments,"7,222,812","7,222,812,000","1,000",KRW
+333,008500,ILJEONG IND,031303,Manufacture of  Knitted Fabric Mills and Fabric Products,"1,200,000","6,000,000,000","5,000",KRW
+334,081000,ILJIN DIAMOND,032004,Manufacture of Other Chemical Products,"11,277,975","11,277,975,000","1,000",KRW
+335,020760,ILJIN DISPLAY,032601,Manufacture of Semiconductor,"28,314,440","14,157,220,000",500,KRW
+336,103590,ILJIN ELECTRIC,032803,"Manufacture of Insulated Wires and Cables, Including Insulated Code Sets","37,080,390","37,080,390,000","1,000",KRW
+337,015860,ILJIN HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","49,347,483","49,852,615,000","1,000",KRW
+338,020150,ILJIN MATERIALS,032602,Manufacture of Electronic Components,"39,200,000","19,600,000,000",500,KRW
+339,003200,ILSHIN SPNG,031301,Spinning of Textiles and Processing of Threads and Yarns,"2,400,000","12,000,000,000","5,000",KRW
+340,007110,ILSHIN STONE,074606,"Wholesale of Construction Materials, Hardware and Heating and Air Conditioning Equipment","77,456,610","38,728,305,000",500,KRW
+341,013360,ILSUNG CONST,064102,Heavy Construction,"5,340,364","27,012,440,000","5,000",KRW
+342,003120,ILSUNG PHARM,032102,Manufacture of Medicaments,"2,660,000","13,300,000,000","5,000",KRW
+343,007570,ILYANG PHARM,032102,Manufacture of Medicaments,"19,045,984","48,727,660,000","2,500",KRW
+344,122900,IMARKETKOREA,074608,Wholesale of Non-Specialized Goods,"35,943,340","18,166,670,000",500,KRW
+345,034590,INCHON CITY GAS,043502,"Manufacture of Gas, Distribution of Gaseous Fuel Through Mains","4,374,754","21,873,770,000","5,000",KRW
+346,023810,INFAC,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"10,000,000","5,000,000,000",500,KRW
+347,214320,INNOCEAN,137103,Advertising,"20,000,000","10,000,000,000",500,KRW
+348,006490,INSCOB,074605,Wholesale of Machinery Equipment and Supplies,"84,826,521","42,413,260,500",500,KRW
+349,129260,INTERGIS,084903,Road Freight Transport,"29,747,874","14,873,937,000",500,KRW
+350,023800,INZI CONTROLS,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"15,160,128","7,580,064,000",500,KRW
+351,010780,IS DONGSEO,032302,Manufacture of Ceramic Ware,"30,718,521","15,359,260,500",500,KRW
+352,005950,ISU CHEM,032001,Manufacture of Basic Chemicals,"15,278,000","76,390,000,000","5,000",KRW
+353,007660,ISUPETASYS,032602,Manufacture of Electronic Components,"41,268,398","41,268,398,000","1,000",KRW
+354,226320,ITSSKIN,074604,Wholesale of Household Goods,"17,471,300","8,735,650,000",500,KRW
+355,014990,In the F,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","58,932,995","29,466,497,500",500,KRW
+356,033240,JAHWA ELEC,032602,Manufacture of Electronic Components,"17,900,000","8,950,000,000",500,KRW
+357,025620,JAYJUN,031501,"Manufacture of Luggage, Footwear and Similar Products","57,606,071","5,760,607,100",100,KRW
+358,175330,JB FINANCIAL GROUP,116409,Other Financial Intermediation,"155,439,423","777,197,115,000","5,000",KRW
+359,002620,JEIL PHARM,032102,Manufacture of Medicaments,"14,850,000","7,425,000,000",500,KRW
+360,089590,JEJUAIR,085101,Scheduled Air Transport,"26,294,258","131,471,290,000","5,000",KRW
+361,010580,JICO,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"45,004,179","22,502,089,500",500,KRW
+362,088790,JINDO,074607,Other Specialized Wholesale,"12,447,744","6,223,872,000",500,KRW
+363,044380,JOOYONTECH,032603,Manufacture of Computers and Peripheral Equipment,"58,078,511","5,807,851,100",100,KRW
+364,194370,JS CORP,031501,"Manufacture of Luggage, Footwear and Similar Products","13,157,051","1,315,705,100",100,KRW
+365,096760,JW HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","61,308,431","30,654,215,500",500,KRW
+366,234080,JW LIFESCIENCE,032102,Manufacture of Medicaments,"7,917,277","39,586,385,000","5,000",KRW
+367,001060,JW PHARMA,032102,Manufacture of Medicaments,"19,117,112","48,406,142,500","2,500",KRW
+368,006220,Jeju BK,116401,Banking and Savings Institutions,"22,128,774","110,643,870,000","5,000",KRW
+369,029460,K.C.TECH,032702,"Manufacture of Instruments and Appliances for Measuring, Checking, Testing, Navigating, controlling and Other Purposes, Except Optical Instruments","33,393,384","16,696,692,000",500,KRW
+370,123890,KAIT,116409,Other Financial Intermediation,"85,000,000","42,500,000,000",500,KRW
+371,003490,KAL,085101,Scheduled Air Transport,"72,839,744","369,752,690,000","5,000",KRW
+372,000860,KANGNAM JEVISCO,032004,Manufacture of Other Chemical Products,"6,500,000","6,500,000,000","1,000",KRW
+373,021960,KB CAPITAL,116409,Other Financial Intermediation,"21,492,128","107,460,640,000","5,000",KRW
+374,002550,KB Insurance,116501,Insurance,"66,500,000","33,250,000,000",500,KRW
+375,105560,KBFinancialGroup,116409,Other Financial Intermediation,"418,111,537","2,090,557,685,000","5,000",KRW
+376,119650,KC COTTRELL,032901,Manufacture of General Purpose Machinery,"13,000,000","6,500,000,000",500,KRW
+377,009440,KC Green Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","22,434,980","11,217,490,000",500,KRW
+378,002380,KCC,032004,Manufacture of Other Chemical Products,"10,556,513","56,434,870,000","5,000",KRW
+379,009070,KCTC,084903,Road Freight Transport,"30,000,000","15,000,000,000",500,KRW
+380,071320,KDHC,043503,"Steam, Chilled or Hot Water and Air Conditioning Supply","11,578,744","57,893,720,000","5,000",KRW
+381,092220,KEC,032601,Manufacture of Semiconductor,"89,047,384","44,523,692,000",500,KRW
+382,023350,KECC,137201,"Architectural, Engineering and Related Technical Services","10,950,000","5,475,000,000",500,KRW
+383,006200,KECHOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","46,803,136","23,401,568,000",500,KRW
+384,015760,KEPCO,043501,"Production, Collection and Distribution of Electricity","641,964,077","3,209,820,385,000","5,000",KRW
+385,052690,KEPCO E&amp;C,137201,"Architectural, Engineering and Related Technical Services","38,220,000","7,644,000,000",200,KRW
+386,051600,KEPCO KPS,064203,Electrical and Communication Works,"45,000,000","9,000,000,000",200,KRW
+387,130660,KEPID,137201,"Architectural, Engineering and Related Technical Services","32,600,000","16,300,000,000",500,KRW
+388,012200,KEYANG ELEC MACH,032901,Manufacture of General Purpose Machinery,"32,600,000","17,000,000,000",500,KRW
+389,001390,KGC,032001,Manufacture of Basic Chemicals,"11,576,968","60,193,085,000","5,000",KRW
+390,109070,KGP,031702,"Manufacture of Corrugated Cardboard, Paper Boxes and Paper Containers","65,814,325","32,907,162,500",500,KRW
+391,000270,KIA MTR,033001,Manufacture of Motor Vehicles and Engines for Motor Vehicles,"405,363,347","2,139,316,735,000","5,000",KRW
+392,071050,KIH,116409,Other Financial Intermediation,"55,725,992","307,921,215,000","5,000",KRW
+393,152550,KIM ANKOR OIL,116402,Investment Companies,"70,020,000","350,100,000,000",0,KRW
+394,168490,KIM PARALLEL OIL,116402,Investment Companies,"80,020,000","400,100,000,000",0,KRW
+395,002240,KIS WIRE,032401,Manufacture of Basic Iron and Steel,"18,000,000","18,000,000,000","1,000",KRW
+396,104700,KISCO,032401,Manufacture of Basic Iron and Steel,"9,210,000","46,050,000,000","5,000",KRW
+397,001940,KISCO Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","3,695,276","18,476,380,000","5,000",KRW
+398,092440,KISHIN,032902,Manufacture of Special-Purpose Machinery,"29,200,000","14,600,000,000",500,KRW
+399,039490,KIWOOM,116601,Activities Auxiliary to Financial Service Activities,"22,099,740","110,498,700,000","5,000",KRW
+400,071950,KOAS,033201,Manufacture of Furniture,"30,907,210","15,453,605,000",500,KRW
+401,002020,KOLON CORP,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","12,061,185","65,687,875,000","5,000",KRW
+402,120110,KOLON IND,032005,Manufacture of Man-Made Fibers,"25,151,578","139,597,190,000","5,000",KRW
+403,138490,KOLON PLASTICS,032003,Manufacture of Synthetic Rubber and of Plastics in Primary Forms,"38,000,000","38,000,000,000","1,000",KRW
+404,005430,KOR APO SVC,085209,Other Services Allied to Transport Agency,"3,166,355","15,831,775,000","5,000",KRW
+405,000970,KOR CASTIRON PIPE,032401,Manufacture of Basic Iron and Steel,"22,800,500","12,000,000,000",500,KRW
+406,007810,KOR CIRC,032602,Manufacture of Electronic Components,"23,620,751","13,684,570,000",500,KRW
+407,004200,KOR DEV,064102,Heavy Construction,"21,550,000","107,750,000,000","5,000",KRW
+408,025540,KOR ELEC TERM,032801,"Manufacture of Electric Motors, Generators and Transforming, Distributing and Controlling Apparatus of Electricity","10,415,000","5,207,500,000",500,KRW
+409,002200,KOR EXPT PKG IND,031702,"Manufacture of Corrugated Cardboard, Paper Boxes and Paper Containers","4,000,000","20,000,000,000","5,000",KRW
+410,010100,KOR FLANGE,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"6,090,084","30,450,420,000","5,000",KRW
+411,002140,KOR IND,031006,"Manufacture of Grain Mill Products, Starches and Starch Products","24,939,425","24,939,425,000","1,000",KRW
+412,005880,KOR LINE,085001,Sea and Coastal Water Transport,"24,426,504","122,132,520,000","5,000",KRW
+413,004090,KOR PETRO,032309,Manufacture of Other Non-metallic Mineral Products,"655,200","3,276,000,000","5,000",KRW
+414,010130,KOR ZINC,032402,Manufacture of Basic Precious and Non-ferrous Metals,"18,870,000","94,350,000,000","5,000",KRW
+415,047810,KOREA AEROSPACE,033103,"Manufacture of Aircraft, Spacecraft and its Parts","97,475,107","487,375,535,000","5,000",KRW
+416,152330,KOREA AUTOGLASS,032301,Manufacture of Glass and Glass Products,"20,000,000","100,000,000,000","5,000",KRW
+417,161890,KOREA KOLMAR,032004,Manufacture of Other Chemical Products,"21,100,151","10,550,075,500",500,KRW
+418,024720,KOREA KOLMAR HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","16,748,936","8,374,468,000",500,KRW
+419,007280,KOREA STEEL SHAPES,032401,Manufacture of Basic Iron and Steel,"18,020,878","9,010,439,000",500,KRW
+420,034830,KOREIT,116409,Other Financial Intermediation,"252,489,230","252,489,230,000","1,000",KRW
+421,009810,KP,074607,Other Specialized Wholesale,"66,257,536","33,128,768,000",500,KRW
+422,006650,KPIC,032001,Manufacture of Basic Chemicals,"6,500,000","41,000,000,000","5,000",KRW
+423,025000,KPX CHEMICAL,032001,Manufacture of Basic Chemicals,"4,840,000","24,200,000,000","5,000",KRW
+424,083420,KPX GREEN CHEMICAL,032004,Manufacture of Other Chemical Products,"20,000,000","10,000,000,000",500,KRW
+425,092230,KPX HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","4,224,646","21,123,230,000","5,000",KRW
+426,000040,KR MOTORS,033109,Manufacture of Other Transport Equipment,"176,129,474","88,064,737,000",500,KRW
+427,010040,KRC,032302,Manufacture of Ceramic Ware,"22,863,632","11,431,816,000",500,KRW
+428,044450,KSS LINE,085001,Sea and Coastal Water Transport,"23,185,880","11,592,940,000",500,KRW
+429,030200,KT,106102,Telecommunications,"261,111,808","1,564,498,835,000","5,000",KRW
+430,053210,KT Skylife,106002,Television Broadcasting,"47,821,966","119,554,915,000","2,500",KRW
+431,033780,KT&amp;G,031201,Manufacture of Tobacco Products,"137,292,497","954,959,485,000","5,000",KRW
+432,030210,KTBSEC,116601,Activities Auxiliary to Financial Service Activities,"60,314,092","301,570,460,000","5,000",KRW
+433,145270,KTOPREITs,126801,Real Estate Activities with Own or Leased Property,"41,333,150","41,333,150,000","1,000",KRW
+434,058850,KTcs,106309,Other Information Service Activities,"42,685,000","23,842,500,000",500,KRW
+435,001140,KUKBO TRNSPT,084903,Road Freight Transport,"1,027,304","5,136,520,000","5,000",KRW
+436,007690,KUKDO CHEM,032001,Manufacture of Basic Chemicals,"5,810,616","29,053,080,000","5,000",KRW
+437,005320,KUKDONG,074604,Wholesale of Household Goods,"5,914,052","2,957,026,000",500,KRW
+438,014530,KUKDONG OIL &amp; CHEM,031902,Manufacture of Refined Petroleum Products,"34,869,420","17,434,710,000",500,KRW
+439,008870,KUMBI,032301,Manufacture of Glass and Glass Products,"1,000,000","5,000,000,000","5,000",KRW
+440,001210,KUMHO ELEC,032804,Manufacture of Electric Lamps and Bulbs,"6,916,051","34,580,255,000","5,000",KRW
+441,214330,KUMHO HT,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"9,765,000","4,882,500,000",500,KRW
+442,002990,KUMHO IND,064101,Building Construction,"35,090,993","176,916,295,000","5,000",KRW
+443,011780,KUMHO PETRO CHEM,032001,Manufacture of Basic Chemicals,"30,467,691","167,455,885,000","5,000",KRW
+444,073240,KUMHO TIRE,032201,Manufacture of Rubber Products,"157,993,158","789,965,790,000","5,000",KRW
+445,014280,KUMKANG KIND,032401,Manufacture of Basic Iron and Steel,"4,855,964","24,869,695,000","5,000",KRW
+446,033270,KUP,032102,Manufacture of Medicaments,"16,207,322","8,103,661,000",500,KRW
+447,140910,KWANG HEE REIT,126801,Real Estate Activities with Own or Leased Property,"3,628,735","18,143,675,000","5,000",KRW
+448,017040,KWANG MYUNG ELEC,032801,"Manufacture of Electric Motors, Generators and Transforming, Distributing and Controlling Apparatus of Electricity","43,337,615","21,668,807,500",500,KRW
+449,009290,KWANGDONG PHARM,032102,Manufacture of Medicaments,"52,420,851","52,420,851,000","1,000",KRW
+450,001570,KY,032001,Manufacture of Basic Chemicals,"39,353,308","19,676,654,000",500,KRW
+451,013580,KYE-RYONG CONST,064102,Heavy Construction,"8,930,907","44,654,535,000","5,000",KRW
+452,030610,KYOBO SECURITIES,116601,Activities Auxiliary to Financial Service Activities,"36,000,000","180,000,000,000","5,000",KRW
+453,214390,KYONGBO,032101,"Manufacture of Medicinal Chemicals, Antibiotics and Biological Products","23,906,860","11,953,430,000",500,KRW
+454,009450,KYUNG DONG NAVIEN,032805,Manufacture of Domestic Appliances,"12,739,510","12,739,510,000","1,000",KRW
+455,012610,KYUNG-IN SYNTH,032001,Manufacture of Basic Chemicals,"40,396,365","20,198,182,500",500,KRW
+456,000050,KYUNGBANG,031301,Spinning of Textiles and Processing of Threads and Yarns,"27,415,270","13,707,635,000",500,KRW
+457,012320,KYUNGDONG GAS,043502,"Manufacture of Gas, Distribution of Gaseous Fuel Through Mains","3,484,800","17,424,000,000","5,000",KRW
+458,009140,KYUNGIN ELEC,032602,Manufacture of Electronic Components,"1,570,797","7,853,985,000","5,000",KRW
+459,002100,KYUNGNONG,032004,Manufacture of Other Chemical Products,"21,691,750","10,845,875,000",500,KRW
+460,035250,"Kangwon Land, Inc.",189102,Amusement and theme Park Operation,"213,940,500","106,970,250,000",500,KRW
+461,012170,Kiwi Media Group,074607,Other Specialized Wholesale,"137,229,808","68,614,904,000",500,KRW
+462,004540,KleanNara,031701,"Manufacture of Pulp, Paper and Paperboard","37,234,016","188,000,880,000","5,000",KRW
+463,036460,Kogas,043502,"Manufacture of Gas, Distribution of Gaseous Fuel Through Mains","92,313,000","461,565,000,000","5,000",KRW
+464,900140,Kolao Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","47,869,508","11,967,377",0.25,USD
+465,003070,KolonGlobal,064102,Heavy Construction,"16,570,088","84,414,455,000","5,000",KRW
+466,144620,KolonMaterial,032005,Manufacture of Man-Made Fibers,"9,000,000","45,000,000,000","5,000",KRW
+467,090970,KoreaPacific01,126901,Renting of Transport Equipment,"2,191,080","10,955,400,000","5,000",KRW
+468,090980,KoreaPacific02,126901,Renting of Transport Equipment,"2,191,080","10,955,400,000","5,000",KRW
+469,090990,KoreaPacific03,126901,Renting of Transport Equipment,"2,191,080","10,955,400,000","5,000",KRW
+470,091000,KoreaPacific04,126901,Renting of Transport Equipment,"2,191,080","10,955,400,000","5,000",KRW
+471,003690,Korean Re,116502,Reinsurance,"120,369,116","60,184,558,000",500,KRW
+472,002720,Kukje Pharma,032102,Manufacture of Medicaments,"16,607,318","16,607,318,000","1,000",KRW
+473,192530,Kwangju Bank,116401,Banking and Savings Institutions,"51,316,057","256,580,285,000","5,000",KRW
+474,115390,L&amp;L,032202,Manufacture of Plastic Products,"55,000,000","27,500,000,000",500,KRW
+475,025820,LEEKU IND,032402,Manufacture of Basic Precious and Non-ferrous Metals,"33,442,000","16,721,000,000",500,KRW
+476,093050,LF,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","29,240,000","146,200,000,000","5,000",KRW
+477,051910,LG CHEM,032001,Manufacture of Basic Chemicals,"70,592,343","391,405,715,000","5,000",KRW
+478,003550,LG Corp.,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","172,557,131","879,359,040,000","5,000",KRW
+479,034220,LG Display,032602,Manufacture of Electronic Components,"357,815,700","1,789,078,500,000","5,000",KRW
+480,066570,LG ELECTRONICS INC.,032604,Manufacture of Telecommunication and Broadcasting Apparatuses,"163,647,814","904,169,030,000","5,000",KRW
+481,051900,LG H&amp;H,032004,Manufacture of Other Chemical Products,"15,618,197","88,589,470,000","5,000",KRW
+482,108670,LG HAUSYS,032202,Manufacture of Plastic Products,"8,967,670","50,000,000,000","5,000",KRW
+483,011070,LG INNOTEK,032602,Manufacture of Electronic Components,"23,667,107","118,335,535,000","5,000",KRW
+484,001120,LG INT,074601,Wholesale on a Fee or Contract Basis,"38,760,000","193,800,000,000","5,000",KRW
+485,032640,LG Uplus,106102,Telecommunications,"436,611,361","2,573,969,175,000","5,000",KRW
+486,079550,LIG Nex1,032502,Manufacture of Weapons and Ammunition,"22,000,000","110,000,000,000","5,000",KRW
+487,011170,LOTTE CHEMICAL Corp,032001,Manufacture of Basic Chemicals,"34,275,419","171,377,095,000","5,000",KRW
+488,005300,LOTTE CHILSUNG,031102,"Manufacture of Ice and Non-alcoholic Beverages, Production of Mineral Waters","1,237,203","6,786,015,000","5,000",KRW
+489,004990,LOTTE CONF,031007,Manufacture of Other Food Products,"14,214,000","7,107,000,000",500,KRW
+490,002270,LOTTE FOOD,031005,Manufacture of Dairy Products and edible Ice Cakes,"1,369,436","6,847,180,000","5,000",KRW
+491,004000,LOTTE Fine Chem,032001,Manufacture of Basic Chemicals,"25,800,000","129,000,000,000","5,000",KRW
+492,071840,LOTTE Himart,074703,Retail Sale of Information and Communications Equipment,"23,607,712","118,038,560,000","5,000",KRW
+493,023530,LOTTE SHOPPING,074701,Retail Sale in Non-Specialized Stores,"31,490,892","157,454,460,000","5,000",KRW
+494,032350,LOTTE TOUR,147502,Activities of Travel Agencies and Tour Operators and Tourist Assistance Activities,"45,395,023","22,697,511,500",500,KRW
+495,006260,LS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","32,200,000","161,000,000,000","5,000",KRW
+496,229640,LS C&amp;S ASIA,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","30,624,879","15,312,439,500",500,KRW
+497,000680,LS Networks,074608,Wholesale of Non-Specialized Goods,"78,803,016","394,015,080,000","5,000",KRW
+498,010120,LSINDUSTRIALSYSTEMS,032801,"Manufacture of Electric Motors, Generators and Transforming, Distributing and Controlling Apparatus of Electricity","30,000,000","150,000,000,000","5,000",KRW
+499,000400,Lotte Insurance,116501,Insurance,"134,280,000","134,280,000,000","1,000",KRW
+500,204320,MANDO,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"9,391,424","46,957,120,000","5,000",KRW
+501,001080,MANHO ROPE &amp; WIRE,032401,Manufacture of Basic Iron and Steel,"4,150,000","4,150,000,000","1,000",KRW
+502,027740,MANIKER,031001,"Slaughtering of Livestock, Processing, Preserving of Meat and Meat Products","116,725,477","58,362,738,500",500,KRW
+503,094800,MAPSREALTY1,116402,Investment Companies,"92,834,331","464,171,655,000",0,KRW
+504,138040,MERITZ FINANCIAL,116409,Other Financial Intermediation,"142,885,818","71,442,909,000",500,KRW
+505,008560,MERITZ SECU,116601,Activities Auxiliary to Financial Service Activities,"496,638,534","496,638,534,000","1,000",KRW
+506,023150,MHETHANOL,031101,Manufacture of  Alcoholic Beverages,"7,378,526","4,596,763,000",500,KRW
+507,003650,MICHANG OIL,031902,Manufacture of Refined Petroleum Products,"1,739,672","8,698,360,000","5,000",KRW
+508,025560,MIRAE,032702,"Manufacture of Instruments and Appliances for Measuring, Checking, Testing, Navigating, controlling and Other Purposes, Except Optical Instruments","630,818,400","63,081,840,000",100,KRW
+509,006800,MIRAE ASSET DAEWOO,116601,Activities Auxiliary to Financial Service Activities,"666,316,408","3,401,960,790,000","5,000",KRW
+510,085620,MIRAE ASSET LIFE,116501,Insurance,"145,180,000","725,900,000,000","5,000",KRW
+511,134380,MIWON CHEMICALS,032004,Manufacture of Other Chemical Products,"2,217,952","2,384,812,000","1,000",KRW
+512,002840,MIWON COMCL,032004,Manufacture of Other Chemical Products,"881,006","7,949,030,000","5,000",KRW
+513,088980,MKIF,116402,Investment Companies,"331,459,341","1,670,985,754,511",0,KRW
+514,069640,MKTREND,074704,"Retail Sale of Textiles, Clothing, Footwear and Leather Goods","12,909,322","6,454,661,000",500,KRW
+515,204210,MODETOURREIT,126801,Real Estate Activities with Own or Leased Property,"7,826,815","39,134,075,000","5,000",KRW
+516,012690,MONALISA,031709,Manufacture of Other Paper and Paperboard Products,"36,571,255","18,885,627,500",500,KRW
+517,005360,MONAMI,074604,Wholesale of Household Goods,"18,897,307","18,897,307,000","1,000",KRW
+518,008420,MOONBAE STL,032401,Manufacture of Basic Iron and Steel,"20,503,505","10,251,752,500",500,KRW
+519,009200,MOORIM PAPER,031701,"Manufacture of Pulp, Paper and Paperboard","41,609,310","104,023,275,000","2,500",KRW
+520,009680,MOTONIC,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"33,000,000","16,500,000,000",500,KRW
+521,107590,MSC,032001,Manufacture of Basic Chemicals,"704,641","3,673,205,000","5,000",KRW
+522,017180,MYUNGMOON PHARM,032102,Manufacture of Medicaments,"23,220,000","11,610,000,000",500,KRW
+523,000060,Meritz Insurance,116501,Insurance,"110,338,000","55,169,000,000",500,KRW
+524,007120,MiraeING,106201,"Computer programming, System Integration and Management Services","63,587,319","31,793,659,500",500,KRW
+525,009580,Moorim P&amp;P,031701,"Manufacture of Pulp, Paper and Paperboard","62,368,324","155,920,810,000","2,500",KRW
+526,033920,Muhak,031101,Manufacture of  Alcoholic Beverages,"28,500,000","5,700,000,000",200,KRW
+527,025860,NAMHAE CHEM,032002,Manufacture of Fertilizers and Nitrogen Compounds,"49,678,843","49,678,843,000","1,000",KRW
+528,001260,NAMKWANG ENG &amp; CONS,064102,Heavy Construction,"9,796,455","48,982,275,000","5,000",KRW
+529,008350,NAMSUN ALUM,032402,Manufacture of Basic Precious and Non-ferrous Metals,"110,179,090","55,243,490,000",500,KRW
+530,004270,NAMSUNG,074607,Other Specialized Wholesale,"36,212,160","18,106,080,000",500,KRW
+531,003920,NAMYANG DAIRY,031005,Manufacture of Dairy Products and edible Ice Cakes,"720,000","4,433,310,000","5,000",KRW
+532,002070,NAMYEUNG,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","6,867,945","6,867,945,000","1,000",KRW
+533,007460,NARA KIC,032509,Manufacture of Other Metal Products; Metal Working Service Activities,"16,926,996","8,463,498,000",500,KRW
+534,035420,NAVER,106301,"Data Processing, Hosting, Portals and Other Internet Information Media Service Activities","32,962,679","16,481,339,500",500,KRW
+535,036570,NCsoft Corporation,105802,Software Development and Supply,"21,929,022","10,964,511,000",500,KRW
+536,002350,NEXEN TIRE,032201,Manufacture of Rubber Products,"96,415,877","53,457,938,500",500,KRW
+537,005940,NHIS,116601,Activities Auxiliary to Financial Service Activities,"281,408,887","1,531,275,030,000","5,000",KRW
+538,181710,NHN Entertainment,105802,Software Development and Supply,"19,565,025","9,782,512,500",500,KRW
+539,008260,NI STEEL,032401,Manufacture of Basic Iron and Steel,"28,426,850","14,213,425,000",500,KRW
+540,034310,NICE,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","37,882,300","18,941,150,000",500,KRW
+541,085310,NK,032501,"Manufacture of Structural Metal Products, Tanks, Reservoirs and Steam Generators","48,983,352","24,491,676,000",500,KRW
+542,004370,NONGSHIM,031007,Manufacture of Other Food Products,"6,082,642","30,413,210,000","5,000",KRW
+543,000320,NOROO HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","13,198,611","8,500,200,500",500,KRW
+544,090350,NOROOPAINT,032004,Manufacture of Other Chemical Products,"20,000,000","10,231,563,000",500,KRW
+545,004250,NPC,032202,Manufacture of Plastic Products,"36,720,000","21,000,000,000",500,KRW
+546,138250,NS Shopping,074709,Retail Sale not in Stores,"3,369,600","16,848,000,000","5,000",KRW
+547,005720,NXN,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","50,880,170","27,240,385,000",500,KRW
+548,110570,Nexolon Company,032601,Manufacture of Semiconductor,"161,170,196","80,585,098,000",500,KRW
+549,072710,Nongshim Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","4,637,790","23,188,950,000","5,000",KRW
+550,002630,OBI,032102,Manufacture of Medicaments,"161,060,844","80,530,422,000",500,KRW
+551,010060,OCI,032001,Manufacture of Basic Chemicals,"23,849,371","127,246,855,000","5,000",KRW
+552,001800,ORION,031007,Manufacture of Other Food Products,"6,008,435","30,042,175,000","5,000",KRW
+553,007310,OTTOGI,031007,Manufacture of Other Food Products,"3,440,000","17,200,000,000","5,000",KRW
+554,006090,OYANG,010301,Fishing and Gathering of Marine Materials,"9,422,739","47,113,695,000","5,000",KRW
+555,001340,PAIKKWANG IND,032001,Manufacture of Basic Chemicals,"44,918,407","22,459,203,500",500,KRW
+556,007980,PAN-PACIFIC,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","43,269,712","21,634,856,000",500,KRW
+557,003610,PANGRIM,031302,Weaving of Textiles and Manufacture of Textile Products,"4,231,409","21,157,045,000","5,000",KRW
+558,090080,PHC,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"37,403,844","18,701,922,000",500,KRW
+559,010770,PHHC,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","14,625,466","7,312,733,000",500,KRW
+560,017810,PMO,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","3,809,095","19,045,475,000","5,000",KRW
+561,103140,POONGSAN,032402,Manufacture of Basic Precious and Non-ferrous Metals,"28,024,278","140,121,390,000","5,000",KRW
+562,005810,POONGSAN HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","7,835,167","45,175,835,000","5,000",KRW
+563,005490,POSCO,032401,Manufacture of Basic Iron and Steel,"87,186,835","482,403,125,000","5,000",KRW
+564,058430,POSCO C&amp;C,032401,Manufacture of Basic Iron and Steel,"6,000,000","30,000,000,000","5,000",KRW
+565,047050,POSCO DAEWOO,074601,Wholesale on a Fee or Contract Basis,"113,876,291","569,381,455,000","5,000",KRW
+566,002410,PUMYANG CONST,064101,Building Construction,"4,752,927","23,764,635,000","5,000",KRW
+567,005030,PUSAN CAST IRON,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"22,600,000","11,300,000,000",500,KRW
+568,028670,PanOcean,085001,Sea and Coastal Water Transport,"534,396,771","534,396,771,000","1,000",KRW
+569,001020,PaperCorea,031701,"Manufacture of Pulp, Paper and Paperboard","224,367,056","112,183,528,000",500,KRW
+570,005690,Pharmicell,032101,"Manufacture of Medicinal Chemicals, Antibiotics and Biological Products","58,382,610","29,191,305,000",500,KRW
+571,102460,REYON PHARMACEUTICAL,032102,Manufacture of Medicaments,"12,900,000","6,450,000,000",500,KRW
+572,000760,RIFA,074607,Other Specialized Wholesale,"2,800,000","14,000,000,000","5,000",KRW
+573,100840,S&amp;T,032901,Manufacture of General Purpose Machinery,"7,084,612","3,542,306,000",500,KRW
+574,003570,S&amp;T Dynamics,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"32,473,439","83,683,597,500","2,500",KRW
+575,036530,S&amp;T Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","15,830,105","8,115,052,500",500,KRW
+576,064960,S&amp;T MOTIV,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"14,623,136","73,115,680,000","5,000",KRW
+577,012750,S-1,147503,"Security, Guard and Detective Services","37,999,178","18,999,589,000",500,KRW
+578,010950,S-Oil,031902,Manufacture of Refined Petroleum Products,"112,582,792","291,511,797,500","2,500",KRW
+579,075180,SAC,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"19,200,000","9,600,000,000",500,KRW
+580,145210,SAEHWA IMC,032902,Manufacture of Special-Purpose Machinery,"11,882,640","5,941,320,000",500,KRW
+581,007160,SAJO IND,010301,Fishing and Gathering of Marine Materials,"5,000,000","25,000,000,000","5,000",KRW
+582,008040,SAJODONGAONE,031006,"Manufacture of Grain Mill Products, Starches and Starch Products","65,180,349","32,590,174,500",500,KRW
+583,014710,SAJOSEAFOOD,031002,Processing and Preserving of Fishes and Edible Seaweeds,"17,218,543","17,218,543,000","1,000",KRW
+584,006110,SAMA ALUM,032402,Manufacture of Basic Precious and Non-ferrous Metals,"11,000,000","5,500,000,000",500,KRW
+585,001470,SAMBU CONST,064102,Heavy Construction,"9,758,395","48,791,975,000","5,000",KRW
+586,004690,SAMCHULLY,043502,"Manufacture of Gas, Distribution of Gaseous Fuel Through Mains","4,055,025","20,275,125,000","5,000",KRW
+587,001880,SAMHO INT,064101,Building Construction,"15,179,766","75,898,830,000","5,000",KRW
+588,004450,SAMHWA CROWN &amp; CLOS,032509,Manufacture of Other Metal Products; Metal Working Service Activities,"2,154,379","10,771,895,000","5,000",KRW
+589,000390,SAMHWA PAINT,032004,Manufacture of Other Chemical Products,"25,388,674","12,694,337,000",500,KRW
+590,002450,SAMICK MUS INSTR,033302,Manufacture of Musical Instruments,"83,864,249","41,932,124,500",500,KRW
+591,004380,SAMICK THK,032901,Manufacture of General Purpose Machinery,"21,000,000","10,500,000,000",500,KRW
+592,000520,SAMIL PHARM,032102,Manufacture of Medicaments,"5,500,000","5,500,000,000","1,000",KRW
+593,005500,SAMJIN PHARM,032102,Manufacture of Medicaments,"13,900,000","13,900,000,000","1,000",KRW
+594,009770,SAMJUNGPULP,031701,"Manufacture of Pulp, Paper and Paperboard","2,499,971","12,499,855,000","5,000",KRW
+595,005090,SAMKWANG GLASS,032301,Manufacture of Glass and Glass Products,"4,854,418","24,272,090,000","5,000",KRW
+596,207940,SAMSUNG BIOLOGICS,032101,"Manufacture of Medicinal Chemicals, Antibiotics and Biological Products","66,165,000","165,412,500,000","2,500",KRW
+597,028260,SAMSUNG C&amp;T,074607,Other Specialized Wholesale,"189,690,043","19,131,748,300",100,KRW
+598,029780,SAMSUNG CARD,116409,Other Financial Intermediation,"115,858,891","614,794,455,000","5,000",KRW
+599,006660,SAMSUNG CLIMATE CON,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"8,126,314","4,063,157,000",500,KRW
+600,005930,SAMSUNG ELEC,032604,Manufacture of Telecommunication and Broadcasting Apparatuses,"140,679,337","897,513,820,000","5,000",KRW
+601,009150,SAMSUNG ELEC MECH,032602,Manufacture of Electronic Components,"74,693,696","388,003,400,000","5,000",KRW
+602,028050,SAMSUNG ENG,137201,"Architectural, Engineering and Related Technical Services","196,000,000","980,000,000,000","5,000",KRW
+603,000810,SAMSUNG F &amp; M INS,116501,Insurance,"47,374,837","26,473,418,500",500,KRW
+604,010140,SAMSUNG HVY IND,033101,Building of Ships and Boats,"390,000,000","1,950,574,225,000","5,000",KRW
+605,032830,SAMSUNG LIFE,116501,Insurance,"200,000,000","100,000,000,000",500,KRW
+606,001360,SAMSUNG PHARM,032102,Manufacture of Medicaments,"39,713,570","19,856,785,000",500,KRW
+607,068290,SAMSUNG PUBLISHING,105801,"Publishing of Books, Magazines and Other Publications","10,000,000","5,000,000,000",500,KRW
+608,006400,SAMSUNG SDI,032802,Manufacture of Primary Cells and Batteries and Accumulators,"68,764,530","356,712,130,000","5,000",KRW
+609,018260,SAMSUNG SDS,106201,"Computer programming, System Integration and Management Services","77,377,800","38,688,900,000",500,KRW
+610,016360,SAMSUNG SECU,116601,Activities Auxiliary to Financial Service Activities,"76,435,165","394,153,905,000","5,000",KRW
+611,001820,SAMWHA CAPACITOR,032602,Manufacture of Electronic Components,"10,395,000","10,395,000,000","1,000",KRW
+612,009470,SAMWHA ELEC,032602,Manufacture of Electronic Components,"6,613,820","6,613,820,000","1,000",KRW
+613,011230,SAMWHA ELEC,032605,Manufacture of Electronic Video and Audio Equipment,"14,273,820","14,273,820,000","1,000",KRW
+614,023000,SAMWONSTEEL,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"40,000,000","20,000,000,000",500,KRW
+615,003230,SAMYANG FOOD,031007,Manufacture of Other Food Products,"7,533,015","37,665,075,000","5,000",KRW
+616,002170,SAMYANGTONGSANG,031501,"Manufacture of Luggage, Footwear and Similar Products","3,000,000","15,000,000,000","5,000",KRW
+617,003720,SAMYOUNG CHEM,032202,Manufacture of Plastic Products,"34,000,000","17,000,000,000",500,KRW
+618,005680,SAMYOUNG ELEC,032602,Manufacture of Electronic Components,"20,000,000","10,000,000,000",500,KRW
+619,002810,SAMYUNG TRDG,074607,Other Specialized Wholesale,"16,466,623","8,233,311,500",500,KRW
+620,041650,SANGSIN BRAKE,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"21,471,450","10,735,725,000",500,KRW
+621,067830,SAVEZONEI&amp;C,074701,Retail Sale in Non-Specialized Stores,"41,040,895","41,040,895,000","1,000",KRW
+622,034120,SBS,106002,Television Broadcasting,"18,252,582","91,262,910,000","5,000",KRW
+623,101060,SBS Media Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","139,896,190","69,948,095,000",500,KRW
+624,102280,SBW,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","129,124,213","64,562,106,500",500,KRW
+625,023960,SC ENGINEERING,064102,Heavy Construction,"10,176,982","5,088,491,000",500,KRW
+626,000180,SCE Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","69,751,600","36,000,000,000",500,KRW
+627,010960,SDC,064201,Site Preparation and Special Trade Construction for Civil Engineering and Buildings,"25,000,000","12,500,000,000",500,KRW
+628,001430,SEAH BESTEEL,032401,Manufacture of Basic Iron and Steel,"35,862,119","219,310,595,000","5,000",KRW
+629,058650,SEAH HOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","4,000,000","20,000,000,000","5,000",KRW
+630,003030,SEAH STL,032401,Manufacture of Basic Iron and Steel,"6,000,000","30,000,000,000","5,000",KRW
+631,004360,SEBANG,084903,Road Freight Transport,"19,308,690","11,498,970,000",500,KRW
+632,075580,SEJIN HEAVY,033101,Building of Ships and Boats,"38,372,720","21,986,360,000",500,KRW
+633,033530,"SEJONG IND. CO.,LTD",033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"20,054,430","10,027,215,000",500,KRW
+634,007540,SEMPIO,031007,Manufacture of Other Food Products,"2,875,800","2,875,800,000","1,000",KRW
+635,248170,SEMPIO FOODS,031007,Manufacture of Other Food Products,"4,568,286","2,284,143,000",500,KRW
+636,007610,SEONDO ELEC,032801,"Manufacture of Electric Motors, Generators and Transforming, Distributing and Controlling Apparatus of Electricity","18,000,000","9,000,000,000",500,KRW
+637,011300,SEONGAN,031302,Weaving of Textiles and Manufacture of Textile Products,"56,857,860","28,428,930,000",500,KRW
+638,017390,SEOUL CTY GAS,043502,"Manufacture of Gas, Distribution of Gaseous Fuel Through Mains","5,000,000","35,000,000,000","5,000",KRW
+639,004410,SEOUL FOOD IND,031007,Manufacture of Other Food Products,"13,496,400","33,963,450,000","2,500",KRW
+640,021050,SEOWON,032403,Cast of Metals,"47,474,590","23,737,295,000",500,KRW
+641,007860,SEOYON,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","23,479,844","11,739,922,000",500,KRW
+642,200880,SEOYONEHWA,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"27,028,437","13,514,218,500",500,KRW
+643,091090,SEWON CELLONTECH,032501,"Manufacture of Structural Metal Products, Tanks, Reservoirs and Steam Generators","60,593,178","30,296,589,000",500,KRW
+644,021820,SEWON PRECSN IND,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"10,000,000","5,000,000,000",500,KRW
+645,013000,SEWOO GLOBAL,074607,Other Specialized Wholesale,"23,690,705","11,845,352,500",500,KRW
+646,031440,SF,095601,"Restaurants, Bars and Canteens","3,872,480","19,362,400,000","5,000",KRW
+647,001380,SG CHOONGBANG,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"41,747,470","20,873,735,000",500,KRW
+648,004060,SG CORPORATION,074608,Wholesale of Non-Specialized Goods,"202,424,960","101,212,480,000",500,KRW
+649,004490,SGBC,032802,Manufacture of Primary Cells and Batteries and Accumulators,"14,000,000","7,000,000,000",500,KRW
+650,002360,SH ENERCHEM,032001,Manufacture of Basic Chemicals,"111,133,730","55,566,865,000",500,KRW
+651,016590,SHINDAEYANG PAPR,031702,"Manufacture of Corrugated Cardboard, Paper Boxes and Paper Containers","3,869,237","19,346,185,000","5,000",KRW
+652,005450,SHINHAN ENG &amp; CONST,064101,Building Construction,"7,022,839","35,114,195,000","5,000",KRW
+653,055550,SHINHAN FINANCIAL GR,116409,Other Financial Intermediation,"474,199,587","2,370,997,935,000","5,000",KRW
+654,004080,SHINHUNG,074605,Wholesale of Machinery Equipment and Supplies,"9,600,000","6,733,070,000",500,KRW
+655,001770,SHINHWA SILUP,032401,Manufacture of Basic Iron and Steel,"1,214,878","6,074,390,000","5,000",KRW
+656,002700,SHINIL IND,074605,Wholesale of Machinery Equipment and Supplies,"71,047,521","35,523,760,500",500,KRW
+657,002870,SHINPOONG PAPR MFG,031701,"Manufacture of Pulp, Paper and Paperboard","3,495,870","17,479,350,000","5,000",KRW
+658,019170,SHINPOONG PHARM,032102,Manufacture of Medicaments,"52,984,990","27,592,495,000",500,KRW
+659,004170,SHINSEGAE,074701,Retail Sale in Non-Specialized Stores,"9,845,181","49,225,905,000","5,000",KRW
+660,035510,SHINSEGAE I&amp;C,106301,"Data Processing, Hosting, Portals and Other Internet Information Media Service Activities","1,720,000","8,600,000,000","5,000",KRW
+661,031430,SHINSEGAE INTERNATIONAL,074704,"Retail Sale of Textiles, Clothing, Footwear and Leather Goods","7,140,000","35,700,000,000","5,000",KRW
+662,011930,SHINSUNG SE,032601,Manufacture of Semiconductor,"172,993,713","86,606,856,500",500,KRW
+663,005390,SHINSUNG TONGSANG,074607,Other Specialized Wholesale,"143,708,390","71,854,195,000",500,KRW
+664,009270,SHINWON,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","63,303,370","31,697,055,000",500,KRW
+665,001720,SHINYOUNG SECU,116601,Activities Auxiliary to Financial Service Activities,"9,386,237","82,200,000,000","5,000",KRW
+666,005800,SHINYOUNG WACOAL,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","900,000","4,500,000,000","5,000",KRW
+667,004970,SILLA,010301,Fishing and Gathering of Marine Materials,"16,000,000","8,000,000,000",500,KRW
+668,009160,SIMPAC,032902,Manufacture of Special-Purpose Machinery,"29,084,925","14,542,462,500",500,KRW
+669,029530,SINDOH,032603,Manufacture of Computers and Peripheral Equipment,"10,080,029","50,400,145,000","5,000",KRW
+670,006880,SINGSONGHOLDINGS,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","11,828,858","5,914,429,000",500,KRW
+671,079660,SJ HP,031007,Manufacture of Other Food Products,"7,160,000","35,800,000,000","5,000",KRW
+672,003960,SJDR,031002,Processing and Preserving of Fishes and Edible Seaweeds,"5,960,575","29,802,875,000","5,000",KRW
+673,123700,SJM,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"15,604,898","7,802,449,000",500,KRW
+674,025530,SJMH,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","14,934,008","7,467,004,000",500,KRW
+675,034730,SK,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","70,360,297","15,385,286,400",200,KRW
+676,006120,SK CHEM,032005,Manufacture of Man-Made Fibers,"24,303,255","135,601,900,000","5,000",KRW
+677,210980,SK D&amp;D,126801,Real Estate Activities with Own or Leased Property,"10,770,000","10,770,000,000","1,000",KRW
+678,018670,SK GAS,074607,Other Specialized Wholesale,"8,881,471","44,407,355,000","5,000",KRW
+679,096770,SK Innovation,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","92,465,564","468,569,950,000","5,000",KRW
+680,001510,SK SECU,116601,Activities Auxiliary to Financial Service Activities,"320,117,171","162,014,842,500",500,KRW
+681,017670,SK TELECOM,106102,Telecommunications,"80,745,711","44,639,473,000",500,KRW
+682,000660,SK hynix,032601,Manufacture of Semiconductor,"728,002,365","3,657,652,050,000","5,000",KRW
+683,011790,SKC,032004,Manufacture of Other Chemical Products,"37,534,555","187,672,775,000","5,000",KRW
+684,001740,"SKNetworksCo.,Ltd",074607,Other Specialized Wholesale,"248,187,647","620,753,237,500","2,500",KRW
+685,005850,SL CORP.,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"33,865,090","16,932,545,000",500,KRW
+686,004430,SONGWON IND,032001,Manufacture of Basic Chemicals,"24,000,000","12,000,000,000",500,KRW
+687,017550,SOOSAN HVY IND,032902,Manufacture of Special-Purpose Machinery,"53,985,163","26,992,581,500",500,KRW
+688,005610,SPC SAMLIP,031007,Manufacture of Other Food Products,"8,629,009","43,145,045,000","5,000",KRW
+689,003410,SSANGYONG CEMENT,032303,"Manufacture of Cement, Lime and Plaster and Its Products","87,478,869","439,732,055,000","5,000",KRW
+690,003620,SSANGYONG MTR,033001,Manufacture of Motor Vehicles and Engines for Motor Vehicles,"137,220,096","686,100,480,000","5,000",KRW
+691,047400,SSYMaterials,032302,Manufacture of Ceramic Ware,"42,000,000","21,000,000,000",500,KRW
+692,011810,STX,074608,Wholesale of Non-Specialized Goods,"47,334,308","118,335,770,000","2,500",KRW
+693,077970,STX Engine,032901,Manufacture of General Purpose Machinery,"23,008,904","57,522,260,000","2,500",KRW
+694,071970,STX Heavy Industries,032901,Manufacture of General Purpose Machinery,"23,792,327","59,480,817,500","2,500",KRW
+695,008490,SUHEUNG,032004,Manufacture of Other Chemical Products,"11,569,113","6,084,556,500",500,KRW
+696,002820,SUNCHANG,031602,Manufacture of Wood Products,"12,607,989","12,607,989,000","1,000",KRW
+697,003080,SUNGBO CHEM,032004,Manufacture of Other Chemical Products,"20,020,000","10,010,000,000",500,KRW
+698,005980,SUNGJEE CONST,064102,Heavy Construction,"97,481,640","48,740,820,000",500,KRW
+699,014910,SUNGMOON ELEC,032602,Manufacture of Electronic Components,"16,554,309","8,577,154,500",500,KRW
+700,004980,SUNGSHIN CEMENT,032303,"Manufacture of Cement, Lime and Plaster and Its Products","24,008,482","128,508,590,000","5,000",KRW
+701,136490,SUNJIN,031008,Manufacture of Livestock Feeds and Prepared Animal Feeds,"8,140,000","4,070,000,000",500,KRW
+702,004770,SUNNY ELEC,032601,Manufacture of Semiconductor,"29,976,480","15,938,240,000",500,KRW
+703,145990,SYC,031007,Manufacture of Other Food Products,"10,289,803","53,299,365,000","5,000",KRW
+704,000070,Samyang Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","8,564,271","44,341,645,000","5,000",KRW
+705,003060,Schnell Biopharmaceuticals,032102,Manufacture of Medicaments,"80,883,447","40,441,723,500",500,KRW
+706,019440,SeAH SPECIAL STEEL,032401,Manufacture of Basic Iron and Steel,"8,570,000","42,850,000,000","5,000",KRW
+707,034300,Shinsegae E&amp;C,064101,Building Construction,"4,000,000","20,000,000,000","5,000",KRW
+708,003240,TAEKWANG IND,032005,Manufacture of Man-Made Fibers,"1,113,400","5,567,000,000","5,000",KRW
+709,006890,TAEKYUNG CHEMICAL,032001,Manufacture of Basic Chemicals,"11,600,000","5,800,000,000",500,KRW
+710,015890,TAEKYUNG IND,032001,Manufacture of Basic Chemicals,"29,228,750","14,614,375,000",500,KRW
+711,001420,TAEWONMULSAN,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"7,600,000","3,800,000,000",500,KRW
+712,004100,TAEYANG MTL,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"36,700,000","20,000,000,000",500,KRW
+713,009410,TAEYOUNG E&amp;C,064102,Heavy Construction,"76,400,000","39,478,740,000",500,KRW
+714,001440,TAIHAN ELEC WIRE,032803,"Manufacture of Insulated Wires and Cables, Including Insulated Code Sets","856,473,009","428,236,504,500",500,KRW
+715,001070,TAIHAN TEXTILE,031302,Weaving of Textiles and Manufacture of Textile Products,"1,060,000","5,300,000,000","5,000",KRW
+716,084870,TBH GLOBAL,031401,"Manufacture of Sewn Wearing Apparel, Except Fur Apparel","20,856,819","10,428,409,500",500,KRW
+717,002710,TCC STEEL,032401,Manufacture of Basic Iron and Steel,"22,342,500","22,342,500,000","1,000",KRW
+718,078000,TELCOWARE,106301,"Data Processing, Hosting, Portals and Other Internet Information Media Service Activities","9,702,706","5,026,353,000",500,KRW
+719,019180,THN CORP,032809,Manufacture of Other Electrical Equipment,"18,000,000","9,000,000,000",500,KRW
+720,001520,TONGYANG,032303,"Manufacture of Cement, Lime and Plaster and Its Products","238,684,063","119,850,042,500",500,KRW
+721,082640,TONGYANG LIFE,116501,Insurance,"107,572,390","537,861,950,000","5,000",KRW
+722,002900,TONGYANGMOOLSAN,032902,Manufacture of Special-Purpose Machinery,"65,388,900","32,694,450,000",500,KRW
+723,214420,TONYMOLY,032004,Manufacture of Other Chemical Products,"17,640,000","3,528,000,000",200,KRW
+724,140890,TRUS Y 7 REIT,126801,Real Estate Activities with Own or Leased Property,"9,686,000","48,430,000,000","5,000",KRW
+725,001790,TS,031006,"Manufacture of Grain Mill Products, Starches and Starch Products","8,840,002","24,044,835,000","2,500",KRW
+726,030790,TYNETWORKS,106201,"Computer programming, System Integration and Management Services","52,734,346","26,367,173,000",500,KRW
+727,011280,Tailim Pkg,031702,"Manufacture of Corrugated Cardboard, Paper Boxes and Paper Containers","70,805,940","35,402,970,000",500,KRW
+728,134790,Teems,033201,Manufacture of Furniture,"2,000,000","1,000,000,000",500,KRW
+729,008000,Toray Chemical Korea(TCK),032005,Manufacture of Man-Made Fibers,"46,363,851","237,230,757,000","5,000",KRW
+730,004870,Tway Holdings,032303,"Manufacture of Cement, Lime and Plaster and Its Products","16,274,138","8,137,069,000",500,KRW
+731,072130,UANGEL,106301,"Data Processing, Hosting, Portals and Other Internet Information Media Service Activities","13,195,454","6,597,727,000",500,KRW
+732,011330,UNICHEM,031501,"Manufacture of Luggage, Footwear and Similar Products","50,980,259","25,490,129,500",500,KRW
+733,014830,UNID,032001,Manufacture of Basic Chemicals,"8,889,843","44,449,215,000","5,000",KRW
+734,000910,UNION,032303,"Manufacture of Cement, Lime and Plaster and Its Products","15,611,619","7,805,809,500",500,KRW
+735,077500,UNIQUEST COPORATION,074605,Wholesale of Machinery Equipment and Supplies,"27,049,809","13,524,904,500",500,KRW
+736,096300,VIETNAM DEVELOP1,116402,Investment Companies,"124,249,261","90,701,960,172",0,KRW
+737,100220,VISANG,105801,"Publishing of Books, Magazines and Other Publications","12,996,741","6,498,370,500",500,KRW
+738,016580,WHANIN PHARM,032102,Manufacture of Medicaments,"18,600,070","9,700,035,000",500,KRW
+739,010050,WIB,116409,Other Financial Intermediation,"474,203,406","237,101,703,000",500,KRW
+740,008600,WILLBES,074604,Wholesale of Household Goods,"57,000,000","62,646,140,000","1,000",KRW
+741,024070,WISCOM,032202,Manufacture of Plastic Products,"15,025,920","7,512,960,000",500,KRW
+742,005820,WONLIM,031303,Manufacture of  Knitted Fabric Mills and Fabric Products,"2,200,000","11,000,000,000","5,000",KRW
+743,105840,WOOJIN,032702,"Manufacture of Instruments and Appliances for Measuring, Checking, Testing, Navigating, controlling and Other Purposes, Except Optical Instruments","17,360,000","8,680,000,000",500,KRW
+744,049800,WOOJIN PLAIMM,032902,Manufacture of Special-Purpose Machinery,"10,000,000","5,000,000,000",500,KRW
+745,016880,WOONGJIN,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","72,677,207","38,588,603,500",500,KRW
+746,095720,WOONGJIN THINKBIG,168501,Primary Education,"34,621,165","17,310,582,500",500,KRW
+747,118000,WOORIDUL HUEBRAIN,074605,Wholesale of Machinery Equipment and Supplies,"18,429,147","9,214,573,500",500,KRW
+748,004720,WOORIDUL PHARM,032102,Manufacture of Medicaments,"10,055,292","5,027,646,000",500,KRW
+749,017370,WOOSHIN SYSTEMS,032902,Manufacture of Special-Purpose Machinery,"18,314,054","9,157,027,000",500,KRW
+750,006980,WOOSUNG FEED,031006,"Manufacture of Grain Mill Products, Starches and Starch Products","30,900,000","15,450,000,000",500,KRW
+751,103130,WoongjinEnergy,032601,Manufacture of Semiconductor,"22,889,719","114,448,595,000","5,000",KRW
+752,000030,Woori Bank,116401,Banking and Savings Institutions,"676,000,000","3,381,391,855,000","5,000",KRW
+753,010600,YBROAD,074601,Wholesale on a Fee or Contract Basis,"15,249,884","7,624,942,000",500,KRW
+754,012280,YEONGHWA MTL,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"45,451,006","23,597,333,000",500,KRW
+755,015360,YESCO,043502,"Manufacture of Gas, Distribution of Gaseous Fuel Through Mains","6,000,000","30,000,000,000","5,000",KRW
+756,037270,YGP,137103,Advertising,"58,170,704","29,710,352,000",500,KRW
+757,002920,YOOSUNG ENT,033003,Manufacture of Parts and Accessories for Motor Vehicles and Engines,"25,947,500","12,973,750,000",500,KRW
+758,008730,YOULCHON CHEM,032202,Manufacture of Plastic Products,"24,800,000","14,776,380,000",500,KRW
+759,012160,YOUNG HEUNG I&amp;S,032401,Manufacture of Basic Iron and Steel,"85,826,509","42,913,254,500",500,KRW
+760,014440,YOUNGBO CHEM,032202,Manufacture of Plastic Products,"20,000,000","10,000,000,000",500,KRW
+761,000670,YOUNGPOONG,032402,Manufacture of Basic Precious and Non-ferrous Metals,"1,842,040","9,210,200,000","5,000",KRW
+762,006740,YOUNGPOONG PAPR MFG,031702,"Manufacture of Corrugated Cardboard, Paper Boxes and Paper Containers","22,200,000","11,100,000,000",500,KRW
+763,070960,YP,095501,Accommodation,"48,133,333","240,666,665,000","5,000",KRW
+764,000100,YUHAN,032102,Manufacture of Medicaments,"11,665,896","59,510,420,000","5,000",KRW
+765,003460,YUHWA SECU,116601,Activities Auxiliary to Financial Service Activities,"11,340,483","74,178,840,000","5,000",KRW
+766,003520,YUNGJIN PHARM,032102,Manufacture of Medicaments,"182,892,731","91,446,365,500",500,KRW
+767,011690,YUYANG D&amp;U,032601,Manufacture of Semiconductor,"46,144,269","23,072,134,500",500,KRW
+768,111770,Youngone Corp,074608,Wholesale of Non-Specialized Goods,"44,311,468","22,155,734,000",500,KRW
+769,009970,Youngone Holdings,137105,"Activities of Head Offices, Holding Companies and Management Consultancy","13,635,592","6,817,796,000",500,KRW
+770,003470,Yuanta Securities,116601,Activities Auxiliary to Financial Service Activities,"199,577,435","1,062,448,235,000","5,000",KRW
+771,000220,Yuyu Pharma,032102,Manufacture of Medicaments,"6,161,406","7,835,791,000","1,000",KRW
+772,015020,e-STARCO,126801,Real Estate Activities with Own or Leased Property,"42,851,600","21,425,800,000",500,KRW
+773,139480,emart,074701,Retail Sale in Non-Specialized Stores,"27,875,819","139,379,095,000","5,000",KRW
+774,058860,ktis,106309,Other Information Service Activities,"34,802,000","17,401,000,000",500,KRW
+775,027970,seha,031701,"Manufacture of Pulp, Paper and Paperboard","23,499,013","23,499,013,000","1,000",KRW
