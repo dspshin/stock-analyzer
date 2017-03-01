@@ -45,15 +45,15 @@ def handle(msg):
             c.execute('CREATE TABLE IF NOT EXISTS subscribe( user TEXT, name TEXT, PRIMARY KEY(user) )')
             conn.commit()
 
-                try:
-                    c.execute( 'INSERT INTO subscribe (user, name) VALUES ("%s", "%s")'%(chat_id,name) )
-                except sqlite3.IntegrityError:
-                    # means already inserted
-                    sendMessage(chat_id, "동일한 신청목록이 존재합니다.")
-                else:
-                    # means success
-                    conn.commit()
-                    sendMessage(chat_id, "성공적으로 추가되었습니다.")
+            try:
+                c.execute( 'INSERT INTO subscribe (user, name) VALUES ("%s", "%s")'%(chat_id,name) )
+            except sqlite3.IntegrityError:
+                # means already inserted
+                sendMessage(chat_id, "동일한 신청목록이 존재합니다.")
+            else:
+                # means success
+                conn.commit()
+                sendMessage(chat_id, "성공적으로 추가되었습니다.")
 
         elif text.startswith('/unsub'):
             conn = sqlite3.connect(ROOT+'subscribe.db')
