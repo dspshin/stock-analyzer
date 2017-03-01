@@ -12,14 +12,16 @@ from pprint import pprint
 import sqlite3
 import telepot
 
+ROOT = '/root/git/stock-analyzer/'
+
 # 주식 정보를 위한 루틴
 THRESHOLD_RATIO = 10
 
-kospi = pd.read_csv('kospi_201702.csv')
+kospi = pd.read_csv( ROOT+'kospi_201702.csv' )
 kospi_codes = kospi.iloc[:,1]
 
-kosdaq = pd.read_csv('kosdaq_201702.csv')
-kosdaq_codes = kosdaq.iloc[:,1]
+#kosdaq = pd.read_csv( ROOT+'kosdaq_201702.csv')
+#kosdaq_codes = kosdaq.iloc[:,1]
 
 codes = []
 for c in kospi_codes:
@@ -72,7 +74,6 @@ for c in codes:
 
 
 # 등록한 유저들에게 메시지를 보내주기 위한 루틴
-ROOT = '/root/git/stock-analyzer/'
 TOKEN = sys.argv[1]
 
 bot = telepot.Bot(TOKEN)
