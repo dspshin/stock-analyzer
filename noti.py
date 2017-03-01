@@ -3,11 +3,16 @@
 
 import pandas as pd
 import pandas_datareader.data as web
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 import time
 import sys
 import traceback
+import re
+from pprint import pprint
+import sqlite3
+import telepot
 
+# 주식 정보를 위한 루틴
 THRESHOLD_RATIO = 10
 
 stocks = pd.read_csv('kospi_201702.csv')
@@ -57,6 +62,35 @@ for i, code in enumerate(codes):
 	# 슬립은 필요없어 보임.
 	#time.sleep(1) 
 
+
+# 등록한 유저들에게 메시지를 보내주기 위한 루틴
+ROOT = '/root/git/stock-analyzer/'
+
+conn2 = sqlite3.connect(ROOT+'logs.db')
+c2 = conn2.cursor()
+c2.execute('CREATE TABLE IF NOT EXISTS logs( url TEXT, PRIMARY KEY(url) )')
+conn2.commit()
+
+conn = sqlite3.connect(ROOT+'subscribe.db')
+c = conn.cursor()
+c.execute('CREATE TABLE IF NOT EXISTS subscribe( user TEXT, name TEXT, PRIMARY KEY(user) )')
+conn.commit()
+
+def sendMessage(user,msg):
+	try:
+		bot.sendMessage(user,msg)
+	except:
+		traceback.print_exc(file=sys.stdout)
+
+users = []
+c.execute('SELECT user FROM subscribe') # get subscribed users
+for data in c.fetchall():
+	users.append( data[0] )
+
 for cand in cands:
 	print stocks.ix[ cand['index'] ]
 	print cand
+	msg = cand['code']
+
+	for user in users:
+		sendMessage( user, msg )
