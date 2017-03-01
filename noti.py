@@ -48,6 +48,7 @@ for i, code in enumerate(codes):
 	    	# ratio가 기준을 넘고, 마지막날 주가가 오른 경우
 	    	print 'Found !'
 	    	cands.append({
+	    		'index':i,
 	    		'code':c,
 	    		'ratio':ratio,
 	    		'lastCloseDiff':lastCloseDiff
@@ -56,4 +57,6 @@ for i, code in enumerate(codes):
 	# 슬립은 필요없어 보임.
 	#time.sleep(1) 
 
-print cands
+for cand in cands:
+	print stocks.ix[ cand['index'] ]
+	print cand
