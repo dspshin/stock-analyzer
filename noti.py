@@ -15,17 +15,26 @@ import telepot
 # 주식 정보를 위한 루틴
 THRESHOLD_RATIO = 10
 
-stocks = pd.read_csv('kospi_201702.csv')
-codes = stocks.iloc[:,1]
+kospi = pd.read_csv('kospi_201702.csv')
+kospi_codes = kospi.iloc[:,1]
+
+kosdaq = pd.read_csv('kosdaq_201702.csv')
+kosdaq_codes = kosdaq.iloc[:,1]
+
+codes = []
+for c in kospi_codes:
+	c = str(c)
+	c = '0'*(6-len(c))+c+'.KS'
+	codes.append(c)
+#for c in kosdaq_codes:
+#	codes.append(c+'.KQ')
 
 m2 = timedelta( days = 60 )
 end = datetime.now()
 start = end - m2
 
 cands = []
-for i, code in enumerate(codes):
-	c = str(code)
-	c = '0'*(6-len(c))+c+'.KS'
+for c in codes:
 	try:
 	    data = web.DataReader( c, 'yahoo', start, end )
 	except:
@@ -48,12 +57,11 @@ for i, code in enumerate(codes):
 	    # 마지막날 올랐는지 체크
 	    lastCloseDiff = data['Adj Close'].diff()[-1]
 
-	    print i, c, ratio, lastCloseDiff
+	    print c, ratio, lastCloseDiff
 	    if ratio > THRESHOLD_RATIO and lastCloseDiff > 0:
 	    	# ratio가 기준을 넘고, 마지막날 주가가 오른 경우
 	    	print 'Found !'
 	    	cands.append({
-	    		'index':i,
 	    		'code':c,
 	    		'ratio':ratio,
 	    		'lastCloseDiff':lastCloseDiff
@@ -92,9 +100,9 @@ for data in c.fetchall():
 	users.append( data[0] )
 
 for cand in cands:
-	print stocks.ix[ cand['index'] ]
+	#print stocks.ix[ cand['index'] ]
 	print cand
-	msg = cand['code']
+	msg = 'http://finance.naver.com/item/main.nhn?code='+cand['code'].split('.')[0]
 
 	for user in users:
 		sendMessage( user, msg )
