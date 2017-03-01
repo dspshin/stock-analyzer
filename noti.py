@@ -65,6 +65,10 @@ for i, code in enumerate(codes):
 
 # 등록한 유저들에게 메시지를 보내주기 위한 루틴
 ROOT = '/root/git/stock-analyzer/'
+TOKEN = sys.argv[1]
+
+bot = telepot.Bot(TOKEN)
+pprint( bot.getMe() )
 
 conn2 = sqlite3.connect(ROOT+'logs.db')
 c2 = conn2.cursor()
