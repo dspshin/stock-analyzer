@@ -48,7 +48,7 @@ for c in codes:
 	    lastDay = v.index[-1]
 	    if lastDay.date() != end.date():
 	    	# 마지막날이 오늘이 아니면 오늘장은 쉬는 날임.
-	    	print "today is off. because last date:", lastDay.date(), 'today:', end.date()
+	    	print "today is off. because last date:", lastDay.date(), 'today:', end.date(), c
 	    	sys.exit(0)
 	    	#pass
 
