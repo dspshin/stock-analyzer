@@ -46,11 +46,13 @@ for c in codes:
 	    v = data['Volume']
 
 	    lastDay = v.index[-1]
-	    if lastDay.date() != end.date():
-	    	# 마지막날이 오늘이 아니면 오늘장은 쉬는 날임.
-	    	print "today is off. because last date:", lastDay.date(), 'today:', end.date(), c
-	    	sys.exit(0)
-	    	#pass
+	    print "last data:", lastDay.date()
+	    # 원래는 날자 체크를 하려고 했는데, yahoo가 정보가 느려서 패스
+	    # if lastDay.date() != end.date():
+	    # 	# 마지막날이 오늘이 아니면 오늘장은 쉬는 날임.
+	    # 	print "today is off. because last date:", lastDay.date(), 'today:', end.date(), c
+	    # 	sys.exit(0)
+	    # 	#pass
 
 	    last = v[-1]
 	    mean = v[:-1].mean() #워킹데이 기준 59일치 평균
@@ -68,9 +70,9 @@ for c in codes:
 	    		'ratio':ratio,
 	    		'lastCloseDiff':lastCloseDiff
 	    		})
-	
+
 	# 슬립은 필요없어 보임.
-	#time.sleep(1) 
+	#time.sleep(1)
 
 
 # 등록한 유저들에게 메시지를 보내주기 위한 루틴
